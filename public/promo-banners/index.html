@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Promo Banners - Beaches & Hikes</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --deep-forest: #1c2e26; --warm-white: #f0ebe3; --sand: #f5f0e8; --ocean: #4a7c59; --stone: #8a7e72; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Source Sans 3', sans-serif; background: var(--sand); color: var(--deep-forest); }
+    .font-display { font-family: 'DM Serif Display', serif; }
+    .font-body { font-family: 'Source Sans 3', sans-serif; }
+
+    header {
+      background: var(--deep-forest);
+      padding: 50px clamp(24px, 4vw, 64px) 35px;
+      text-align: center;
+    }
+    header h1 { color: var(--warm-white); font-size: clamp(28px, 4vw, 44px); letter-spacing: -0.5px; }
+    header p { color: rgba(240,235,227,0.7); font-size: 16px; margin-top: 8px; max-width: 600px; margin-inline: auto; }
+
+    .content { max-width: 1200px; margin: 0 auto; padding: 50px clamp(24px, 4vw, 64px); }
+
+    .banner-card {
+      background: var(--warm-white);
+      border-radius: 16px;
+      border: 1px solid rgba(138,126,114,0.12);
+      padding: 32px;
+      margin-bottom: 32px;
+    }
+    .banner-card h2 {
+      font-size: 20px;
+      margin-bottom: 4px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .banner-card .subtitle { color: var(--stone); font-size: 14px; margin-bottom: 20px; }
+    .banner-card .size-tag {
+      display: inline-block;
+      background: var(--deep-forest);
+      color: var(--warm-white);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 4px 12px;
+      border-radius: 20px;
+    }
+
+    .banner-img-wrap {
+      background: repeating-conic-gradient(rgba(138,126,114,0.06) 0% 25%, transparent 0% 50%) 50% / 20px 20px;
+      border-radius: 12px;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+      overflow: auto;
+    }
+    .banner-img-wrap img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+      display: block;
+    }
+
+    .code-block {
+      background: #1c2e26;
+      border-radius: 10px;
+      padding: 18px 22px;
+      overflow-x: auto;
+      position: relative;
+    }
+    .code-block pre {
+      color: #a8d5ba;
+      font-size: 12px;
+      line-height: 1.7;
+      font-family: 'Courier New', monospace;
+    }
+    .code-block .tag { color: #7ec8a0; }
+    .code-block .attr { color: #d4a574; }
+    .code-block .val { color: #e8c874; }
+    .code-block .comment { color: #5a7a6a; }
+    .copy-btn {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: rgba(255,255,255,0.1);
+      border: none;
+      color: var(--warm-white);
+      font-size: 11px;
+      padding: 5px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    .copy-btn:hover { background: rgba(255,255,255,0.2); }
+
+    .download-all {
+      text-align: center;
+      margin: 40px 0 20px;
+    }
+    .download-all a {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--ocean);
+      color: var(--warm-white);
+      font-size: 15px;
+      font-weight: 500;
+      padding: 14px 32px;
+      border-radius: 50px;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+    .download-all a:hover { background: var(--deep-forest); }
+
+    .note {
+      background: rgba(74,124,89,0.08);
+      border-left: 4px solid var(--ocean);
+      padding: 16px 20px;
+      border-radius: 0 8px 8px 0;
+      margin-bottom: 30px;
+      font-size: 14px;
+      color: var(--deep-forest);
+      line-height: 1.6;
+    }
+    .note strong { color: var(--ocean); }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      font-size: 12px;
+      color: var(--stone);
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1 class="font-display">Promotional Banners</h1>
+  <p class="font-body">Ready-to-use banner ads for promoting <strong style="color:#f0ebe3;">beachesnhikes.com</strong> on other websites and ad networks.</p>
+</header>
+
+<div class="content">
+
+  <div class="note">
+    <strong>How to use:</strong> Copy the HTML code below each banner and paste it onto any website where you want to advertise. Replace <code style="background:rgba(28,46,38,0.08);padding:2px 6px;border-radius:4px;">TARGET_URL</code> with the specific page on beachesnhikes.com you want to link to (e.g., <code style="background:rgba(28,46,38,0.08);padding:2px 6px;border-radius:4px;">https://www.beachesnhikes.com/trails</code>).
+  </div>
+
+  <!-- Banner 1: Billboard -->
+  <div class="banner-card">
+    <h2 class="font-display">Billboard <span class="size-tag">970 x 250</span></h2>
+    <p class="subtitle font-body">Best for: Homepage takeovers, top-of-page placements on partner sites</p>
+    <div class="banner-img-wrap">
+      <img src="../images/promo/970x250-beachesnhikes.jpg" alt="Oahu Trails & Shores Billboard" style="max-width:970px;">
+    </div>
+    <div class="code-block">
+      <button class="copy-btn" onclick="copy(this)">Copy</button>
+      <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"TARGET_URL"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener"</span>&gt;
+  &lt;<span class="tag">img</span> <span class="attr">src</span>=<span class="val">"https://www.beachesnhikes.com/images/promo/970x250-beachesnhikes.jpg"</span>
+       <span class="attr">alt</span>=<span class="val">"Oahu Trails & Shores - 35 Trails, 27 Beaches"</span>
+       <span class="attr">width</span>=<span class="val">"970"</span> <span class="attr">height</span>=<span class="val">"250"</span>
+       <span class="attr">style</span>=<span class="val">"max-width:100%;height:auto;display:block;"</span> /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+    </div>
+  </div>
+
+  <!-- Banner 2: Leaderboard -->
+  <div class="banner-card">
+    <h2 class="font-display">Leaderboard <span class="size-tag">728 x 90</span></h2>
+    <p class="subtitle font-body">Best for: Standard header/footer placements, forums, travel blogs</p>
+    <div class="banner-img-wrap">
+      <img src="../images/promo/728x90-beachesnhikes.jpg" alt="Discover Oahu's Best Trails & Beaches" style="max-width:728px;">
+    </div>
+    <div class="code-block">
+      <button class="copy-btn" onclick="copy(this)">Copy</button>
+      <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"TARGET_URL"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener"</span>&gt;
+  &lt;<span class="tag">img</span> <span class="attr">src</span>=<span class="val">"https://www.beachesnhikes.com/images/promo/728x90-beachesnhikes.jpg"</span>
+       <span class="attr">alt</span>=<span class="val">"Discover Oahu's Best Trails & Beaches"</span>
+       <span class="attr">width</span>=<span class="val">"728"</span> <span class="attr">height</span>=<span class="val">"90"</span>
+       <span class="attr">style</span>=<span class="val">"max-width:100%;height:auto;display:block;"</span> /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+    </div>
+  </div>
+
+  <!-- Banner 3: Large Rectangle -->
+  <div class="banner-card">
+    <h2 class="font-display">Large Rectangle <span class="size-tag">336 x 280</span></h2>
+    <p class="subtitle font-body">Best for: Inline content, sidebar ads, high-visibility placements</p>
+    <div class="banner-img-wrap">
+      <img src="../images/promo/336x280-beachesnhikes.jpg" alt="Find Your Perfect Trail" style="max-width:336px;">
+    </div>
+    <div class="code-block">
+      <button class="copy-btn" onclick="copy(this)">Copy</button>
+      <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"TARGET_URL"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener"</span>&gt;
+  &lt;<span class="tag">img</span> <span class="attr">src</span>=<span class="val">"https://www.beachesnhikes.com/images/promo/336x280-beachesnhikes.jpg"</span>
+       <span class="attr">alt</span>=<span class="val">"Find Your Perfect Trail on Oahu"</span>
+       <span class="attr">width</span>=<span class="val">"336"</span> <span class="attr">height</span>=<span class="val">"280"</span>
+       <span class="attr">style</span>=<span class="val">"max-width:100%;height:auto;display:block;"</span> /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+    </div>
+  </div>
+
+  <!-- Banner 4: Medium Rectangle -->
+  <div class="banner-card">
+    <h2 class="font-display">Medium Rectangle <span class="size-tag">300 x 250</span></h2>
+    <p class="subtitle font-body">Best for: Sidebars, content breaks, email newsletters</p>
+    <div class="banner-img-wrap">
+      <img src="../images/promo/300x250-beachesnhikes.jpg" alt="Explore Every Trail & Beach on Oahu" style="max-width:300px;">
+    </div>
+    <div class="code-block">
+      <button class="copy-btn" onclick="copy(this)">Copy</button>
+      <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"TARGET_URL"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener"</span>&gt;
+  &lt;<span class="tag">img</span> <span class="attr">src</span>=<span class="val">"https://www.beachesnhikes.com/images/promo/300x250-beachesnhikes.jpg"</span>
+       <span class="attr">alt</span>=<span class="val">"Explore Every Trail & Beach on Oahu"</span>
+       <span class="attr">width</span>=<span class="val">"300"</span> <span class="attr">height</span>=<span class="val">"250"</span>
+       <span class="attr">style</span>=<span class="val">"max-width:100%;height:auto;display:block;"</span> /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+    </div>
+  </div>
+
+  <!-- Banner 5: Half Page -->
+  <div class="banner-card">
+    <h2 class="font-display">Half Page <span class="size-tag">300 x 600</span></h2>
+    <p class="subtitle font-body">Best for: Sticky sidebars, high-CTR placements on travel blogs</p>
+    <div class="banner-img-wrap">
+      <img src="../images/promo/300x600-beachesnhikes.jpg" alt="Your Complete Oahu Guide" style="max-width:300px;">
+    </div>
+    <div class="code-block">
+      <button class="copy-btn" onclick="copy(this)">Copy</button>
+      <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"TARGET_URL"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener"</span>&gt;
+  &lt;<span class="tag">img</span> <span class="attr">src</span>=<span class="val">"https://www.beachesnhikes.com/images/promo/300x600-beachesnhikes.jpg"</span>
+       <span class="attr">alt</span>=<span class="val">"Your Complete Oahu Guide"</span>
+       <span class="attr">width</span>=<span class="val">"300"</span> <span class="attr">height</span>=<span class="val">"600"</span>
+       <span class="attr">style</span>=<span class="val">"max-width:100%;height:auto;display:block;"</span> /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+    </div>
+  </div>
+
+  <!-- Banner 6: Wide Skyscraper -->
+  <div class="banner-card">
+    <h2 class="font-display">Wide Skyscraper <span class="size-tag">160 x 600</span></h2>
+    <p class="subtitle font-body">Best for: Narrow sidebars, smaller ad slots</p>
+
+    <p style="font-size:12px;font-weight:600;color:var(--deep-forest);margin-bottom:12px;">Option A: Beach</p>
+    <div class="banner-img-wrap">
+      <img src="../images/promo/160x600-beachesnhikes.jpg" alt="Explore Oahu - 35 Trails, 27 Beaches" style="max-width:160px;">
+    </div>
+    <div class="code-block" style="margin-bottom:24px;">
+      <button class="copy-btn" onclick="copy(this)">Copy</button>
+      <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"TARGET_URL"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener"</span>&gt;
+  &lt;<span class="tag">img</span> <span class="attr">src</span>=<span class="val">"https://www.beachesnhikes.com/images/promo/160x600-beachesnhikes.jpg"</span>
+       <span class="attr">alt</span>=<span class="val">"Explore Oahu"</span>
+       <span class="attr">width</span>=<span class="val">"160"</span> <span class="attr">height</span>=<span class="val">"600"</span>
+       <span class="attr">style</span>=<span class="val">"max-width:100%;height:auto;display:block;"</span> /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+    </div>
+
+    <p style="font-size:12px;font-weight:600;color:var(--deep-forest);margin-bottom:12px;">Option B: Waterfall (matches 300x600 style)</p>
+    <div class="banner-img-wrap">
+      <img src="../images/promo/160x600-beachesnhikes-v2.jpg" alt="Your Complete Oahu Guide" style="max-width:160px;">
+    </div>
+    <div class="code-block">
+      <button class="copy-btn" onclick="copy(this)">Copy</button>
+      <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"TARGET_URL"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener"</span>&gt;
+  &lt;<span class="tag">img</span> <span class="attr">src</span>=<span class="val">"https://www.beachesnhikes.com/images/promo/160x600-beachesnhikes-v2.jpg"</span>
+       <span class="attr">alt</span>=<span class="val">"Your Complete Oahu Guide"</span>
+       <span class="attr">width</span>=<span class="val">"160"</span> <span class="attr">height</span>=<span class="val">"600"</span>
+       <span class="attr">style</span>=<span class="val">"max-width:100%;height:auto;display:block;"</span> /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+    </div>
+  </div>
+
+  <!-- Banner 7: Mobile Banner -->
+  <div class="banner-card">
+    <h2 class="font-display">Mobile Banner <span class="size-tag">320 x 50</span></h2>
+    <p class="subtitle font-body">Best for: Mobile sites, in-app placements, mobile ad networks</p>
+    <div class="banner-img-wrap">
+      <img src="../images/promo/320x50-beachesnhikes.jpg" alt="Oahu's Best Trails & Beaches" style="max-width:320px;">
+    </div>
+    <div class="code-block">
+      <button class="copy-btn" onclick="copy(this)">Copy</button>
+      <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"TARGET_URL"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener"</span>&gt;
+  &lt;<span class="tag">img</span> <span class="attr">src</span>=<span class="val">"https://www.beachesnhikes.com/images/promo/320x50-beachesnhikes.jpg"</span>
+       <span class="attr">alt</span>=<span class="val">"Oahu's Best Trails & Beaches"</span>
+       <span class="attr">width</span>=<span class="val">"320"</span> <span class="attr">height</span>=<span class="val">"50"</span>
+       <span class="attr">style</span>=<span class="val">"max-width:100%;height:auto;display:block;"</span> /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+    </div>
+  </div>
+
+</div>
+
+<footer class="font-body">
+  beachesnhikes.com &mdash; Promotional Banner Kit
+</footer>
+
+<script>
+  function copy(btn) {
+    const code = btn.nextElementSibling.innerText;
+    navigator.clipboard.writeText(code).then(() => {
+      btn.textContent = 'Copied!';
+      setTimeout(() => btn.textContent = 'Copy', 2000);
+    });
+  }
+</script>
+
+</body>
+</html>

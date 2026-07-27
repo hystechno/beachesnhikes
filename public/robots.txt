@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /promo-banners/
+Disallow: /ad-preview/
+
+# Sitemap location
+Sitemap: https://www.beachesnhikes.com/sitemap.xml
+
+# Crawl rate hint (optional)
+# Crawl-delay: 1

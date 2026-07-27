@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ad Banner Preview - Beaches & Hikes</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --deep-forest: #1c2e26;
+      --warm-white: #f0ebe3;
+      --sand: #f5f0e8;
+      --ocean: #4a7c59;
+      --stone: #8a7e72;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+      background: var(--sand);
+      color: var(--deep-forest);
+    }
+    .font-display { font-family: 'DM Serif Display', serif; }
+    .font-body { font-family: 'Source Sans 3', sans-serif; }
+
+    /* Header */
+    .preview-header {
+      background: var(--deep-forest);
+      padding: 40px clamp(24px, 4vw, 64px) 30px;
+      text-align: center;
+    }
+    .preview-header h1 {
+      color: var(--warm-white);
+      font-size: clamp(28px, 4vw, 48px);
+      letter-spacing: -0.5px;
+    }
+    .preview-header p {
+      color: rgba(240,235,227,0.7);
+      font-size: 16px;
+      margin-top: 8px;
+    }
+
+    /* Mock Site Chrome */
+    .mock-nav {
+      background: rgba(28,46,38,0.95);
+      backdrop-filter: blur(12px);
+      height: 56px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 clamp(24px, 4vw, 64px);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .mock-nav .logo {
+      font-weight: 600;
+      font-size: 15px;
+      letter-spacing: 0.15em;
+      color: var(--warm-white);
+      text-transform: uppercase;
+    }
+    .mock-nav .links {
+      display: flex;
+      gap: 28px;
+    }
+    .mock-nav .links span {
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: rgba(240,235,227,0.7);
+    }
+
+    /* Content Area */
+    .content {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 40px clamp(24px, 4vw, 64px);
+    }
+
+    /* Section Labels */
+    .section-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--deep-forest);
+      color: var(--warm-white);
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 6px 14px;
+      border-radius: 20px;
+      margin-bottom: 16px;
+    }
+    .section-label .dot {
+      width: 8px;
+      height: 8px;
+      background: #e74c3c;
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    /* Mock Content Blocks */
+    .mock-hero {
+      height: 200px;
+      background: linear-gradient(135deg, #2d4a3e 0%, #4a7c59 100%);
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: rgba(255,255,255,0.3);
+      font-size: 14px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 24px;
+    }
+    .mock-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    .mock-card {
+      height: 160px;
+      background: var(--warm-white);
+      border-radius: 12px;
+      border: 1px solid rgba(138,126,114,0.15);
+    }
+    .mock-text {
+      height: 12px;
+      background: rgba(138,126,114,0.15);
+      border-radius: 6px;
+      margin-bottom: 8px;
+    }
+    .mock-text.short { width: 60%; }
+    .mock-text.medium { width: 80%; }
+
+    /* Banner Containers */
+    .banner-slot {
+      background: var(--warm-white);
+      border: 2px dashed rgba(138,126,114,0.25);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+    }
+    .banner-slot img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      display: block;
+    }
+    .banner-info {
+      display: flex;
+      gap: 20px;
+      font-size: 12px;
+      color: var(--stone);
+    }
+    .banner-info code {
+      background: rgba(138,126,114,0.1);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-family: monospace;
+    }
+
+    /* Embed Code Block */
+    .embed-code {
+      width: 100%;
+      max-width: 700px;
+      background: #1c2e26;
+      border-radius: 8px;
+      padding: 16px 20px;
+      overflow-x: auto;
+    }
+    .embed-code pre {
+      color: #a8d5ba;
+      font-size: 12px;
+      line-height: 1.6;
+      font-family: 'Courier New', monospace;
+    }
+    .embed-code .tag { color: #7ec8a0; }
+    .embed-code .attr { color: #d4a574; }
+    .embed-code .val { color: #e8c874; }
+    .embed-code .comment { color: #5a7a6a; }
+
+    /* Specs Table */
+    .specs {
+      width: 100%;
+      max-width: 900px;
+      border-collapse: collapse;
+      margin-top: 8px;
+    }
+    .specs th, .specs td {
+      text-align: left;
+      padding: 10px 16px;
+      font-size: 13px;
+      border-bottom: 1px solid rgba(138,126,114,0.12);
+    }
+    .specs th {
+      font-weight: 600;
+      color: var(--deep-forest);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-size: 11px;
+    }
+    .specs td { color: var(--stone); }
+
+    /* Two-column layout for blog */
+    .blog-layout {
+      display: flex;
+      gap: 32px;
+    }
+    .blog-main { flex: 1; }
+    .blog-sidebar {
+      width: 300px;
+      flex-shrink: 0;
+    }
+    @media (max-width: 1024px) {
+      .blog-layout { flex-direction: column; }
+      .blog-sidebar { width: 100%; }
+      .mock-nav .links { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Preview Header -->
+  <div class="preview-header">
+    <h1 class="font-display">Ad Banner Preview</h1>
+    <p class="font-body">All banners generated and ready for deployment. Embed codes included below each placement.</p>
+  </div>
+
+  <!-- Mock Navigation -->
+  <div class="mock-nav">
+    <span class="logo">OAHU</span>
+    <div class="links">
+      <span>Regions</span>
+      <span>Trails</span>
+      <span>Beaches</span>
+      <span>Blog</span>
+      <span>Surf</span>
+      <span>Map</span>
+    </div>
+  </div>
+
+  <div class="content">
+
+    <!-- ═══════════════════════════════════════════ -->
+    <!-- PLACEMENT 1: Homepage - Leaderboard (Top) -->
+    <!-- ═══════════════════════════════════════════ -->
+    <div class="section-label"><span class="dot"></span> Placement 1 &mdash; Homepage Top Leaderboard</div>
+    <div class="mock-hero">Hero Section</div>
+    <div class="banner-slot">
+      <img src="../images/ads/banner-large-leaderboard.jpg" alt="Surf Lessons Banner" style="width:100%;max-width:970px;height:auto;">
+      <div class="banner-info">
+        <span>Size: <strong>970x250 (Billboard)</strong></span>
+        <span>Slot: <code>homepage_top</code></span>
+        <span>Location: Below hero, above regions</span>
+      </div>
+      <div class="embed-code">
+        <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"YOUR_AFFILIATE_LINK"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener sponsored"</span>&gt;
+  &lt;<span class="tag">img</span>
+    <span class="attr">src</span>=<span class="val">"/images/ads/banner-large-leaderboard.jpg"</span>
+    <span class="attr">alt</span>=<span class="val">"Learn to Surf in Hawaii"</span>
+    <span class="attr">style</span>=<span class="val">"width:100%;max-width:970px;height:auto;display:block;margin:0 auto;"</span>
+  /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+      </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════ -->
+    <!-- PLACEMENT 2: Inline - Medium Rectangle      -->
+    <!-- ═══════════════════════════════════════════ -->
+    <div class="mock-grid">
+      <div class="mock-card"></div>
+      <div class="mock-card"></div>
+      <div class="mock-card"></div>
+      <div class="mock-card"></div>
+    </div>
+    <div class="section-label"><span class="dot"></span> Placement 2 &mdash; Inline Medium Rectangle</div>
+    <div class="banner-slot">
+      <img src="../images/ads/banner-medium-rect.jpg" alt="Essential Gear Banner" style="width:100%;max-width:336px;height:auto;">
+      <div class="banner-info">
+        <span>Size: <strong>336x280 (Large Rectangle)</strong></span>
+        <span>Slot: <code>content_inline</code></span>
+        <span>Location: Between trail and beach cards</span>
+      </div>
+      <div class="embed-code">
+        <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"YOUR_AMAZON_LINK?tag=hawaiigolfg02-20"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener sponsored"</span>&gt;
+  &lt;<span class="tag">img</span>
+    <span class="attr">src</span>=<span class="val">"/images/ads/banner-medium-rect.jpg"</span>
+    <span class="attr">alt</span>=<span class="val">"Essential Gear for Oahu"</span>
+    <span class="attr">style</span>=<span class="val">"width:100%;max-width:336px;height:auto;display:block;"</span>
+  /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+      </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════ -->
+    <!-- PLACEMENT 3: Trails Page - Leaderboard      -->
+    <!-- ═══════════════════════════════════════════ -->
+    <div style="margin-top:48px;"></div>
+    <div class="section-label"><span class="dot"></span> Placement 3 &mdash; Trails Page Leaderboard</div>
+    <div style="height:80px;background:var(--deep-forest);border-radius:12px;display:flex;align-items:center;padding:0 32px;color:rgba(240,235,227,0.4);font-size:13px;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:24px;">
+      Page Header &mdash; Hiking Trails
+    </div>
+    <div class="banner-slot">
+      <img src="../images/ads/banner-leaderboard.jpg" alt="Plan Your Oahu Adventure" style="width:100%;max-width:728px;height:auto;">
+      <div class="banner-info">
+        <span>Size: <strong>728x90 (Leaderboard)</strong></span>
+        <span>Slot: <code>trails_top</code></span>
+        <span>Location: Below trails page header</span>
+      </div>
+      <div class="embed-code">
+        <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"YOUR_TRAVELPAYOUTS_LINK"</span> <span class="attr">target</span>=<span class="val">"_blank"</span> <span class="attr">rel</span>=<span class="val">"noopener sponsored"</span>&gt;
+  &lt;<span class="tag">img</span>
+    <span class="attr">src</span>=<span class="val">"/images/ads/banner-leaderboard.jpg"</span>
+    <span class="attr">alt</span>=<span class="val">"Plan Your Oahu Adventure"</span>
+    <span class="attr">style</span>=<span class="val">"width:100%;max-width:728px;height:auto;display:block;margin:0 auto;"</span>
+  /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+      </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════ -->
+    <!-- PLACEMENT 4: Blog Post - Sidebar Skyscraper -->
+    <!-- ═══════════════════════════════════════════ -->
+    <div style="margin-top:48px;"></div>
+    <div class="section-label"><span class="dot"></span> Placement 4 &mdash; Blog Post Sidebar</div>
+    <div class="blog-layout">
+      <div class="blog-main">
+        <div style="height:320px;background:var(--deep-forest);border-radius:12px;margin-bottom:20px;"></div>
+        <div class="mock-text medium"></div>
+        <div class="mock-text"></div>
+        <div class="mock-text short"></div>
+        <div class="mock-text"></div>
+        <div class="mock-text medium"></div>
+      </div>
+      <div class="blog-sidebar">
+        <div class="banner-slot" style="position:sticky;top:80px;padding:12px;">
+          <img src="../images/ads/banner-skyscraper.jpg" alt="Best Hotels in Oahu" style="width:100%;max-width:300px;height:auto;">
+          <div class="banner-info" style="flex-direction:column;gap:6px;text-align:center;">
+            <span>Size: <strong>300x600 (Half Page)</strong></span>
+            <span>Slot: <code>blog_sidebar</code></span>
+            <span>Sticky on desktop</span>
+          </div>
+          <div class="embed-code" style="max-width:260px;">
+            <pre style="font-size:10px;">&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"YOUR_BOOKING_LINK"</span> <span class="attr">target</span>=<span class="val">"_blank"</span>&gt;
+  &lt;<span class="tag">img</span>
+    <span class="attr">src</span>=<span class="val">"/images/ads/banner-skyscraper.jpg"</span>
+    <span class="attr">alt</span>=<span class="val">"Best Hotels in Oahu"</span>
+    <span class="attr">style</span>=<span class="val">"width:300px;height:600px;"</span>
+  /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════ -->
+    <!-- PLACEMENT 5: Homepage - Square (Footer)     -->
+    <!-- ═══════════════════════════════════════════ -->
+    <div style="margin-top:48px;"></div>
+    <div class="section-label"><span class="dot"></span> Placement 5 &mdash; Homepage Footer Area</div>
+    <div class="mock-grid" style="grid-template-columns:repeat(3,1fr);margin-bottom:24px;">
+      <div class="mock-card"></div>
+      <div class="mock-card"></div>
+      <div class="mock-card"></div>
+    </div>
+    <div class="banner-slot">
+      <img src="../images/ads/banner-square.jpg" alt="35 Trails 27 Beaches" style="width:100%;max-width:400px;height:auto;">
+      <div class="banner-info">
+        <span>Size: <strong>1:1 Square</strong></span>
+        <span>Slot: <code>homepage_bottom</code></span>
+        <span>Location: Above footer, centered</span>
+      </div>
+      <div class="embed-code">
+        <pre>&lt;<span class="tag">a</span> <span class="attr">href</span>=<span class="val">"/trails"</span>&gt;
+  &lt;<span class="tag">img</span>
+    <span class="attr">src</span>=<span class="val">"/images/ads/banner-square.jpg"</span>
+    <span class="attr">alt</span>=<span class="val">"35 Trails. 27 Beaches. One Island."</span>
+    <span class="attr">style</span>=<span class="val">"width:100%;max-width:400px;height:auto;display:block;margin:0 auto;"</span>
+  /&gt;
+&lt;/<span class="tag">a</span>&gt;</pre>
+      </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════ -->
+    <!-- SPECIFICATIONS SUMMARY                      -->
+    <!-- ═══════════════════════════════════════════ -->
+    <div style="margin-top:64px;margin-bottom:40px;">
+      <h2 class="font-display" style="font-size:28px;margin-bottom:20px;">Banner Specifications</h2>
+      <table class="specs">
+        <thead>
+          <tr>
+            <th>Banner</th>
+            <th>Dimensions</th>
+            <th>IAB Size</th>
+            <th>File</th>
+            <th>Suggested Use</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Large Leaderboard</strong></td>
+            <td>970x250</td>
+            <td>Billboard</td>
+            <td><code>banner-large-leaderboard.jpg</code></td>
+            <td>Homepage top, below hero</td>
+          </tr>
+          <tr>
+            <td><strong>Leaderboard</strong></td>
+            <td>728x90</td>
+            <td>Leaderboard</td>
+            <td><code>banner-leaderboard.jpg</code></td>
+            <td>Trails/Beaches page headers</td>
+          </tr>
+          <tr>
+            <td><strong>Medium Rectangle</strong></td>
+            <td>336x280</td>
+            <td>Large Rectangle</td>
+            <td><code>banner-medium-rect.jpg</code></td>
+            <td>Inline content, gear promo</td>
+          </tr>
+          <tr>
+            <td><strong>Skyscraper</strong></td>
+            <td>300x600</td>
+            <td>Half Page</td>
+            <td><code>banner-skyscraper.jpg</code></td>
+            <td>Blog sidebar, sticky</td>
+          </tr>
+          <tr>
+            <td><strong>Square</strong></td>
+            <td>1:1</td>
+            <td>Square</td>
+            <td><code>banner-square.jpg</code></td>
+            <td>Footer, internal promo</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Quick Start Guide -->
+    <div style="background:var(--deep-forest);border-radius:16px;padding:40px;color:var(--warm-white);margin-bottom:40px;">
+      <h2 class="font-display" style="font-size:24px;margin-bottom:12px;">How to Deploy These Banners</h2>
+      <ol style="font-size:15px;line-height:2;color:rgba(240,235,227,0.8);padding-left:20px;">
+        <li>Copy all images from <code style="background:rgba(255,255,255,0.1);padding:2px 8px;border-radius:4px;">public/images/ads/</code> to your site</li>
+        <li>Wrap each banner in an <code style="background:rgba(255,255,255,0.1);padding:2px 8px;border-radius:4px;">&lt;a&gt;</code> tag with your affiliate/AdSense link</li>
+        <li>Add <code style="background:rgba(255,255,255,0.1);padding:2px 8px;border-radius:4px;">rel="noopener sponsored"</code> for affiliate links (required by FTC)</li>
+        <li>Paste the embed code into the corresponding page section</li>
+        <li>For AdSense: replace image banners with <code style="background:rgba(255,255,255,0.1);padding:2px 8px;border-radius:4px;">&lt;ins class="adsbygoogle"&gt;</code> tags once approved</li>
+      </ol>
+    </div>
+
+    <div style="text-align:center;padding-bottom:40px;">
+      <p class="font-body" style="font-size:13px;color:var(--stone);">
+        Preview generated for beachesnhikes.com &mdash; All banners are AI-generated and ready for production use.
+      </p>
+    </div>
+
+  </div>
+
+</body>
+</html>
