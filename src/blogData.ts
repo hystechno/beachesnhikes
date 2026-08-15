@@ -849,9 +849,501 @@ Hawaii hurricane season is not a reason to avoid visiting — millions of people
 • GoHawaii.com Official Safety Information`
     ],
   },
+  {
+    id: "hurricane-action-guide",
+    title: "Hurricane Action Guide: What to Do Before, During & After the Storm (Printable Checklist)",
+    excerpt: "A step-by-step emergency action plan for Hawaii travelers and residents. Printable checklists for 72-hour, 48-hour, 36-hour, and immediate-action timelines when a hurricane threatens.",
+    category: "Beaches",
+    author: "Beaches & Hikes",
+    date: "July 25, 2026",
+    readTime: "12 min read",
+    image: "/images/blog/hurricane-action-guide.jpg",
+    tags: ["Hawaii Travel", "Hurricane Safety", "Emergency Preparedness", "Travel Safety", "Checklist", "Hawaii Guide"],
+    content: [
+      `When a hurricane watch is issued for Hawaii, you have 48 hours to prepare. When a hurricane warning is issued, you have 36 hours. In those critical hours before the storm arrives, what you do — and don't do — can mean the difference between a manageable inconvenience and a life-threatening emergency.
+
+This is not a seasonal overview. This is a step-by-step action plan. Bookmark this page. Print the checklists. Share it with anyone you know who's visiting or living in Hawaii during hurricane season (June 1 — November 30).
+
+The guidance below is adapted from official FEMA, NOAA, CDC, and Hawaii Emergency Management Agency protocols. It has been organized specifically for travelers, tourists, and residents who need clear, actionable steps — not vague advice.`,
+
+      `**What the Warnings Actually Mean**
+
+Before we get to the action steps, you need to understand the alert system. The National Weather Service Central Pacific Hurricane Center issues these alerts in a specific order:
+
+**Tropical Storm Watch / Hurricane Watch (48 hours out)**
+• Tropical storm or hurricane conditions are possible within 48 hours
+• Wind speeds of 39-73 mph (tropical storm) or 74+ mph (hurricane) are possible
+• This is your preparation window. Do not wait.
+
+**Tropical Storm Warning / Hurricane Warning (36 hours out)**
+• Tropical storm or hurricane conditions are expected within 36 hours
+• The storm track has narrowed and your area is in the cone
+• Complete all preparations and be ready to shelter in place or evacuate
+
+**Extreme Wind Warning**
+• Sustained winds of 115+ mph are expected within 1 hour
+• This is a life-threatening emergency. Move immediately to an interior room on the lowest level of your building. Stay away from windows, doors, and exterior walls.
+
+**Flash Flood Warning**
+• Flash flooding is imminent or occurring
+• Move to higher ground immediately if in a flood-prone area
+• Do NOT attempt to drive through flooded roads ("Turn around, don't drown")
+
+**Storm Surge Warning**
+• Life-threatening coastal flooding is expected
+• Water levels can rise 3-6 feet above normal high tide within minutes
+• Evacuate immediately if instructed
+
+**Key rule**: A watch means "prepare." A warning means "act." An extreme wind warning means "survive."`,
+
+      `**72 Hours Before: The Preparation Phase (Hurricane Watch Issued)**
+
+This is your best window. Use it wisely. Do not wait for a warning to start preparing.
+
+**Essential Tasks (Complete in Priority Order):**
+
+1. **Monitor official sources continuously**
+   • National Weather Service: weather.gov/hfo
+   • Central Pacific Hurricane Center: weather.gov/cphc
+   • Hawaii Emergency Management: dod.hawaii.gov/hiema
+   • Local news: KHON, KITV, Hawaii News Now
+
+2. **Gather your emergency supplies** (see the complete checklist below)
+   • Minimum 14-day supply of water and food per person
+   • 14-day supply of prescription medications
+   • Flashlights, batteries, portable radio, power banks
+   • First aid kit, cash ($200+ in small bills), whistle
+
+3. **Secure your accommodation**
+   • Hotel: Ask about emergency procedures, shelter locations, and evacuation routes
+   • Vacation rental: Identify interior rooms away from windows. Move beds to interior walls if possible.
+   • Ground-floor unit: Request to move to a higher floor if available
+   • Ask your host or hotel about hurricane shutters, backup generators, and water reserves
+
+4. **Protect your vehicle**
+   • Fill your gas tank completely (gas stations may run out or lose power)
+   • Park in a covered garage or away from trees, power lines, and flood zones
+   • Take photos of your vehicle from all angles for insurance
+   • Move your vehicle to higher ground if you're in a coastal flood zone
+
+5. **Protect your important documents**
+   • Take photos of your passport, driver's license, travel insurance, and flight confirmation
+   • Email copies to yourself and a trusted contact
+   • Store waterproof copies in a ziplock bag
+   • Back up all phone photos to cloud storage
+
+6. **Plan your communication**
+   • Designate an out-of-state emergency contact who can relay information
+   • Share your location and plans with this contact
+   • Download offline maps of your island (Google Maps offline mode)
+   • Save emergency numbers in your phone: 911, (808) 733-4300 (State Civil Defense), (808) 529-3111 (Hawaiian Electric)
+
+7. **Plan your evacuation route**
+   • Know the location of your nearest hurricane shelter (list: dod.hawaii.gov/hiema/shelters/)
+   • Note that Hawaii shelters are primarily for residents — tourists should shelter in place at hotels if possible
+   • Identify two evacuation routes from your location (primary and backup)
+   • Check if your hotel is in a storm surge zone (if so, be prepared to move inland)
+
+8. **Cash is king**
+   • Withdraw at least $200 in small bills from an ATM
+   • Credit card networks and ATMs may be down for days after a storm
+   • Cash is essential for buying emergency supplies, food, and water from local vendors who may be operating without power`,
+
+      `**48 Hours Before: The Intensification Phase**
+
+The storm is now tracking with high confidence. Conditions are expected to deteriorate within 48 hours.
+
+**Critical Tasks:**
+
+1. **Complete all outdoor preparations**
+   • Bring inside all outdoor furniture, umbrellas, beach gear, and anything that can become a projectile
+   • Secure or bring in trash cans, potted plants, and signs
+   • Close and lock all windows and doors
+   • Close hurricane shutters if available (many Hawaii buildings do not have them — tape on windows is NOT recommended and does not help)
+
+2. **Food and water finalization**
+   • Fill your bathtub and any large containers with water for flushing toilets and washing
+   • Freeze water in plastic bottles to keep refrigerator cold if power goes out
+   • Cook and eat perishable food first (refrigerator will only stay cold 4-6 hours without power)
+   • Prepare a "go bag" with 3 days of food, water, and supplies in case you need to evacuate quickly
+
+3. **Charge everything**
+   • Charge all phones, laptops, tablets, and power banks to 100%
+   • Charge portable radios if you have them
+   • Download movies, podcasts, and entertainment — you may be without power and internet for days
+   • Turn your refrigerator to the coldest setting
+
+4. **Medical preparation**
+   • Refill all prescriptions if possible
+   • Prepare a first aid kit with extra supplies
+   • If you require medical equipment (CPAP, oxygen, etc.), confirm backup power sources with your hotel or host
+   • Check with your hotel about backup generators and how they prioritize medical needs
+
+5. **Final vehicle check**
+   • Move your vehicle to its final shelter location
+   • Park facing the direction of exit to avoid having to back out in debris
+   • Take final photos of the vehicle's interior and exterior
+   • Remove all valuables from the vehicle
+
+6. **Stay informed**
+   • Check weather updates every 2-3 hours
+   • Pay attention to the "cone of uncertainty" — the storm's path can shift significantly
+   • Watch for Flash Flood Watches and Warnings (these are often issued before the hurricane itself arrives)
+   • Note: In Hawaii, heavy rain from tropical systems often causes more damage than wind`,
+
+      `**36 Hours Before: The Warning Phase (Hurricane Warning Issued)**
+
+The storm is now expected to hit. This is your final window to complete preparations.
+
+**Final Action Items:**
+
+1. **Decide: Shelter in place or evacuate?**
+   • If you are in a storm surge zone, evacuation zone, or a structurally vulnerable building (wood frame, mobile home, ground floor), you MUST evacuate
+   • If you are in a concrete or masonry hotel above the 3rd floor, away from the coast, you can likely shelter in place
+   • Follow ALL mandatory evacuation orders — emergency services cannot respond during the storm
+   • If you choose to shelter in place, move to an interior room on the lowest level of the building
+
+2. **Complete your "go bag"**
+   • 3 days of water (1 gallon per person per day)
+   • 3 days of non-perishable food
+   • First aid kit and medications
+   • Flashlight and batteries
+   • Portable phone charger
+   • Cash and cards
+   • Whistle to signal for help
+   • Copies of important documents in waterproof bag
+   • Change of clothes and rain gear
+   • Portable radio
+
+3. **Communicate your final plan**
+   • Text your emergency contact with your exact location, who you're with, and your plan
+   • Confirm everyone in your group knows the plan and rally point
+   • Set a check-in time for after the storm passes (accounting for possible communication outages)
+   • Write down important phone numbers on paper — your phone may die
+
+4. **Secure your room (if sheltering in place)**
+   • Close all interior doors to compartmentalize the space
+   • Move away from windows and glass doors
+   • Take shelter in an interior room, closet, or bathroom without windows
+   • If available, use mattresses or thick blankets to create a protective barrier against potential glass breakage
+   • Fill the bathtub with water for flushing and cleaning
+   • Turn your refrigerator and freezer to the coldest settings
+
+5. **If evacuating:**
+   • Leave immediately — do not wait for the last minute
+   • Take your go bag and essential documents only
+   • Know your shelter location and route
+   • Traffic will be heavy — allow double or triple normal travel time
+   • Turn off main utilities (water, gas, electricity) if instructed
+   • Lock all doors and windows before leaving
+   • Notify your hotel or host that you are evacuating and where you are going
+
+6. **Hawaii-Specific Considerations**
+   • **Hawaiian Electric power outages** can last 2-7 days after major storms. Prepare for extended periods without power.
+   • **Water supply** can be disrupted. Fill all containers, including the bathtub.
+   • **Roads may be blocked** by landslides, fallen trees, or flooding — especially on Kauai and the Big Island. Have a backup plan.
+   • **Cell service** may be spotty for 1-3 days. Download offline maps and entertainment.
+   • **Cooler temperatures** after storms mean you won't need AC — but humidity will be high.`,
+
+      `**During the Storm: The Survival Phase**
+
+Once the storm arrives, your focus shifts entirely to survival. Do not attempt to travel, document, or experience the storm.
+
+**If Sheltering in Place:**
+
+1. **Stay in your safe room**
+   • Do NOT leave your shelter room until the storm has completely passed
+   • The eye of the hurricane can create a false calm — winds will resume from the opposite direction with equal or greater force
+   • Do NOT go outside during the eye — you may not have time to get back to shelter
+   • Stay away from windows, doors, and exterior walls
+   • Lie on the floor under a sturdy table or mattress if conditions deteriorate
+
+2. **Monitor conditions**
+   • Listen to a portable radio or NOAA weather radio for updates
+   • Check your phone for emergency alerts ( Wireless Emergency Alerts will be sent automatically)
+   • If you hear a loud "freight train" sound, a tornado may be forming — take immediate cover in the most interior, lowest room
+   • Be aware that flooding can occur even during the storm — not just after
+
+3. **Emergency communication**
+   • Conserve phone battery — use text messages instead of calls when possible (texts use less battery and bandwidth)
+   • If power goes out, use power banks sparingly
+   • Only use your phone for emergencies and check-ins
+   • Do NOT use candles for lighting — use flashlights and battery-powered lanterns (fire risk is extreme)
+
+4. **What to do if your building is damaged**
+   • If the roof is damaged, move to a lower floor if possible
+   • If flooding enters your room, move to higher ground within the building
+   • If the building is compromised, seek shelter in an interior bathroom or closet with no windows
+   • If structural failure is imminent, evacuate to a nearby stronger building if you can do so safely
+
+5. **Stay calm and alert**
+   • The storm can last 6-24 hours depending on the storm's speed and size
+   • Boredom and anxiety are real challenges — have books, cards, or downloaded entertainment ready
+   • Keep snacks and water within arm's reach
+   • Check on others in your shelter group regularly`,
+
+      `**After the Storm: The Recovery Phase**
+
+The storm has passed. But danger is not over. The 24-48 hours after a hurricane are statistically the most dangerous due to flooding, downed power lines, contaminated water, and compromised infrastructure.
+
+**Immediate Safety (First 24 Hours):**
+
+1. **Do NOT go outside immediately**
+   • Wait for official confirmation that the storm has passed
+   • The eye may have passed — winds could resume
+   • Wait for the "all clear" from local authorities before venturing out
+
+2. **When you do go outside, be extremely cautious**
+   • Treat ALL downed power lines as live — stay at least 30 feet away and report them to Hawaiian Electric (808-529-3111)
+   • Do NOT walk through floodwater — it may be contaminated with sewage, chemicals, or hiding debris
+   • Do NOT drive through flooded roads — 6 inches of water can sweep a car away ("Turn around, don't drown")
+   • Wear sturdy shoes — broken glass, nails, and debris are everywhere
+   • Avoid standing water near buildings — it may be electrified
+   • Check your building for structural damage before re-entering if you evacuated
+
+3. **Assess your situation**
+   • Check yourself and your group for injuries
+   • Assess your food, water, and medication supply
+   • Check your phone for service and battery
+   • Document damage with photos and videos for insurance
+   • If you're injured or need emergency help, call 911 — but expect longer response times
+
+4. **Water safety**
+   • Do NOT drink tap water until officials confirm it's safe
+   • Boil water for at least 1 minute before drinking, cooking, or brushing teeth
+   • Do NOT use contaminated water for washing dishes, preparing food, or making ice
+   • If under a Boil Water Advisory, follow it strictly — waterborne illness is a major post-storm health risk
+   • Do NOT enter the ocean for at least 72 hours after a storm — storm runoff brings bacteria, debris, and dangerous currents. Brown water advisories are common and should be taken seriously.
+
+5. **Food safety**
+   • If power was out for more than 4 hours, discard perishable food from the refrigerator (meat, dairy, eggs, leftovers)
+   • A full freezer will keep food safe for 48 hours if unopened; 24 hours if half-full
+   • When in doubt, throw it out — foodborne illness is a real risk after storms
+   • Do NOT eat food that has been in contact with floodwater
+
+**Post-Storm Travel (24-72 Hours):**
+
+1. **Check road conditions before traveling**
+   • Hawaii DOT: hidot.hawaii.gov
+   • Local news for road closures and landslide reports
+   • Google Maps traffic layer for real-time road conditions
+   • Many roads on Kauai and the Big Island may be impassable due to landslides or flooding
+
+2. **Airport and flight status**
+   • Check your airline's app or website for flight status
+   • Expect significant delays and cancellations for 1-3 days after a major storm
+   • Contact your airline directly — do not go to the airport without confirming your flight is operating
+   • If you need to rebook, be patient — call centers will be overwhelmed
+
+3. **Accommodation**
+   • If your hotel was damaged, contact your travel insurance provider immediately
+   • Many hotels in Hawaii have backup generators and are designed to withstand tropical storms — they may be the safest place to stay
+   • If your vacation rental is uninhabitable, contact your host and travel insurance
+   • Shelters will transition to recovery centers — these may offer food, water, and basic supplies
+
+4. **Activities and beaches**
+   • Beaches will be closed until lifeguards can assess conditions — this typically takes 24-72 hours
+   • Do NOT enter the ocean for at least 72 hours after a storm
+   • Hiking trails should be avoided for at least a week — mudslides and flash floods are common after heavy rain
+   • Check NPS.gov and state park websites for trail closures
+   • Waterfalls may be extremely dangerous after storms — flash floods can occur without warning`,
+
+      `**Complete Emergency Supply Checklist (Print & Save)**
+
+**Water & Food (14-day minimum per person):**
+□ 14 gallons of water per person (1 gallon per day)
+□ 14-day supply of non-perishable food (canned goods, protein bars, dried fruit, nuts, crackers, peanut butter)
+□ Manual can opener
+□ Paper plates, plastic cups, and disposable utensils
+□ Paper towels and napkins
+
+**Medical & Hygiene:**
+□ 14-day supply of prescription medications
+□ First aid kit (bandages, antiseptic, gauze, medical tape, scissors, tweezers, thermometer)
+□ Pain relievers (ibuprofen, acetaminophen, aspirin)
+□ Antidiarrheal medication (loperamide) and oral rehydration salts
+□ Antacids
+□ Hydrocortisone cream and antihistamines (for allergic reactions)
+□ Sunscreen (SPF 50+, reef-safe) — the sun is still intense after storms
+□ Insect repellent (standing water breeds mosquitoes rapidly after storms)
+□ Hand sanitizer (alcohol-based, 60%+ alcohol)
+□ Wet wipes and toilet paper (lots of it)
+□ Feminine hygiene products
+□ Diapers and baby wipes if traveling with infants
+□ Toothbrush, toothpaste, deodorant, soap
+
+**Communication & Power:**
+□ Fully charged cell phone and at least 2 portable power banks (10,000+ mAh each)
+□ Car phone charger
+□ Portable radio (battery-powered or hand-crank) — this is critical when cell service fails
+□ Extra batteries for radio and flashlight
+□ Phone charger cable
+□ Waterproof phone case or ziplock bag
+
+**Tools & Safety:**
+□ Flashlight per person (LED flashlights are brightest and most efficient)
+□ Battery-powered or hand-crank lantern
+□ Whistle (to signal for help if trapped)
+□ Multi-tool or Swiss Army knife
+□ Duct tape
+□ Plastic sheeting and tarps (for temporary window/wind damage)
+□ Rope or bungee cords
+□ Work gloves
+□ Dust masks (N95 or equivalent) — for post-storm cleanup and debris
+
+**Documents & Money:**
+□ Passport and driver's license (photocopies and digital copies)
+□ Travel insurance policy and contact number
+□ Flight confirmation and itinerary
+□ Hotel reservation confirmation
+□ $200+ in cash (small bills)
+□ Credit cards
+□ Emergency contact list (written on paper, not just in phone)
+□ List of important medications and dosages
+
+**Clothing & Shelter:**
+□ Rain jacket and rain pants (storm waterproof, not just water-resistant)
+□ Sturdy closed-toe shoes (not flip-flops — you need protection from debris)
+□ Long pants and long-sleeve shirts (for post-storm cleanup and sun protection)
+□ Light layers for hot, humid conditions without AC
+□ Emergency blanket or sleeping bag (if sheltering in a non-air-conditioned space)
+□ Towels
+
+**Traveler-Specific Items:**
+□ Reef-safe sunscreen (you'll still be in Hawaii after the storm)
+□ Snorkel gear and waterproof camera (only AFTER beaches are declared safe)
+□ Beach towel and rash guard
+□ Hiking boots (for post-storm trail assessment — wait at least a week)
+□ Dry bag for valuables
+□ English-to-Japanese/Korean/Chinese phrase cards (for communicating with hotel staff and emergency responders if language barriers exist)
+
+**Important: Store all supplies in a waterproof container or heavy-duty trash bags. Label everything clearly.**`,
+
+      `**What NOT to Do During a Hurricane in Hawaii**
+
+These are the most common mistakes that lead to injury, illness, or death during and after hurricanes. Do not make them.
+
+**Do NOT:**
+
+• Go outside to "experience" the storm or take photos — flying debris is the #1 cause of hurricane-related injury and death
+• Use candles for light — fire risk is extreme; use flashlights only
+• Drive through flooded roads — as little as 6 inches of fast-flowing water can sweep a car away
+• Walk through floodwater — it may contain sewage, chemicals, sharp debris, or hidden electrical hazards from downed power lines
+• Drink tap water or enter the ocean until officials declare it safe — storm runoff causes dangerous contamination
+• Ignore evacuation orders — emergency services cannot respond during the storm
+• Leave your shelter during the eye of the storm — the back half is often more dangerous
+• Use a generator indoors or in a garage — carbon monoxide poisoning is a leading cause of post-storm death
+• Touch downed power lines — assume ALL lines are live and stay at least 30 feet away
+• Re-enter a damaged building until it has been inspected for structural integrity
+• Use your phone excessively — conserve battery for emergencies and check-ins
+• Attempt to travel immediately after the storm — roads may be flooded, blocked, or compromised`,
+
+      `**Hawaii-Specific Shelter Information**
+
+Hawaii maintains a network of hurricane shelters across all islands. These are primarily managed by the Hawaii State Department of Emergency Management (HI-EMA) and county civil defense agencies.
+
+**Important Shelter Notes for Travelers:**
+• Shelters are primarily designed for residents, not tourists
+• Tourists should shelter in place at their hotel if the building is structurally sound and not in a storm surge zone
+• Hotels in Hawaii are typically built to withstand tropical storms and hurricanes (reinforced concrete, impact-resistant windows, backup generators)
+• If you must evacuate to a shelter, bring your go bag, medications, and cash
+• Shelters provide basic space but do NOT provide meals, cots, or bedding — bring your own supplies
+• Pets may NOT be allowed in all shelters — check in advance
+• Shelter locations and openings are announced through local news, emergency alerts, and the HI-EMA website: dod.hawaii.gov/hiema/shelters/
+
+**County Emergency Contacts:**
+• City & County of Honolulu: (808) 768-4381
+• Maui County: (808) 270-7285
+• Kauai County: (808) 241-1800
+• Hawaii County (Big Island): (808) 935-0031`,
+
+      `**Travel Insurance & Hurricane Coverage**
+
+Travel insurance is your financial safety net during hurricane season. Here's what to know:
+
+**What Standard Travel Insurance Covers:**
+• Trip cancellation if a hurricane warning is issued for your destination within a certain timeframe (typically 24-48 hours before departure)
+• Trip interruption if you need to cut your trip short due to a storm
+• Additional expenses if you're stranded due to flight cancellations
+• Emergency medical evacuation
+
+**What Standard Travel Insurance Does NOT Cover:**
+• Fear of a hurricane — you cannot cancel because a storm *might* hit
+• Pre-existing weather conditions known before you purchased the policy
+• Canceling because you simply don't want to travel during hurricane season
+
+**"Cancel for Any Reason" (CFAR) Coverage:**
+• The only option that covers "I don't feel comfortable traveling"
+• Reimburses 50-75% of trip costs (not 100%)
+• Must be purchased within 14-21 days of your initial trip deposit
+• Costs 40-60% more than standard travel insurance
+• Must insure the full non-refundable trip cost
+
+**Recommended Providers for Hawaii Hurricane Coverage:**
+• Allianz Travel Insurance — OneTrip Premier Plan with hurricane coverage
+• World Nomads — Explorer Plan with hurricane coverage
+• Travel Guard — Deluxe Plan with hurricane coverage
+• Travelex Insurance — Travel Select with hurricane coverage
+
+**Key Tip**: Purchase travel insurance within 14 days of your first trip deposit for maximum coverage options, including CFAR and pre-existing condition waivers.`,
+
+      `**Post-Storm Mental Health & Self-Care**
+
+Hurricanes are traumatic events. Even if you are physically safe, the stress of being in a life-threatening situation, the disruption of your vacation, and the uncertainty of the aftermath can take a significant mental toll.
+
+**Common Reactions After a Hurricane:**
+• Anxiety and nervousness
+• Difficulty sleeping
+• Irritability and mood swings
+• Feeling overwhelmed or numb
+• Difficulty concentrating
+• Intrusive thoughts about the storm
+• Grief over lost vacation time, damaged property, or changed plans
+
+**What to Do:**
+• Acknowledge that your feelings are normal and valid
+• Talk to someone — your travel companions, hotel staff, or a mental health professional
+• Maintain a routine as much as possible (regular meals, sleep, exercise)
+• Limit media consumption about the storm's aftermath
+• Practice deep breathing, meditation, or mindfulness
+• Help others if you can — assisting neighbors and fellow travelers can be therapeutic
+• Contact the Disaster Distress Helpline: 1-800-985-5990 (24/7, free, confidential)
+• Text "TalkWithUs" to 66746 for crisis counseling
+
+**If you're traveling with children:**
+• Maintain routines and give them extra attention and physical affection
+• Answer their questions honestly but age-appropriately
+• Limit their exposure to storm-related media
+• Reassure them that they are safe and that adults are taking care of the situation
+• Encourage them to express their feelings through drawing, writing, or play`,
+
+      `**The Bottom Line: Be Prepared, Not Scared**
+
+Hawaii has not experienced a direct hurricane landfall in over 33 years. The odds are in your favor. But preparedness is not about fear — it's about empowerment.
+
+The steps in this guide are not complicated. They are not expensive. They do not require special skills. They simply require attention and action in the 48-hour window before a storm arrives.
+
+Print the checklist. Bookmark this page. Share it with your travel companions. And then enjoy your Hawaii vacation with the confidence that comes from knowing you're ready for whatever the Pacific might bring.
+
+**As the National Weather Service says: "It only takes one storm to make it an active season for you." Be the one who was ready.**`,
+
+      `**Sources:**
+• FEMA — Ready.gov Hurricane Preparedness (ready.gov/hurricanes)
+• NOAA National Weather Service — Hurricane Safety Tips and Resources (weather.gov/safety/hurricane)
+• CDC — Hurricane Preparedness and Response (cdc.gov/disasters/hurricanes)
+• Hawaii State Department of Emergency Management (dod.hawaii.gov/hiema)
+• Hawaii County Civil Defense Agency
+• American Red Cross — Hurricane Safety (redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html)
+• National Hurricane Center — Tropical Cyclone Preparedness Guide (nhc.noaa.gov/prepare/)
+• Hawaii Department of Health — Emergency Preparedness (health.hawaii.gov/prepare/)
+• Hawaiian Electric — Storm Preparedness (hawaiianelectric.com/safety/storm-prepare)
+• Hawaii Department of Transportation — Emergency Road Information (hidot.hawaii.gov)`
+    ],
+  },
 ];
 
 export const featuredBlogIds = [
+  "hurricane-action-guide",
   "hawaii-hurricane-season-guide",
   "best-beaches-for-families",
   "sunset-photography-spots",

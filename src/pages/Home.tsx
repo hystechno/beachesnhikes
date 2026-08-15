@@ -25,6 +25,7 @@ import {
   LocalBusinessSchema,
   WebSiteSchema,
 } from "../components/SchemaMarkup";
+import { Flower2, TreePine, Mountain } from "lucide-react";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -129,7 +130,7 @@ export default function Home() {
             <div className="grid md:grid-cols-3 gap-6">
               <Link to="/maui" className="group bg-white rounded-2xl overflow-hidden border border-deep-forest/5 hover:shadow-lg hover:shadow-deep-forest/5 transition-all duration-300">
                 <div className="h-[160px] bg-gradient-to-br from-ocean/20 to-sand/40 flex items-center justify-center">
-                  <span className="text-[60px] opacity-30 group-hover:scale-110 transition-transform duration-500">🌺</span>
+                  <Flower2 className="w-16 h-16 text-ocean/30 group-hover:scale-110 transition-transform duration-500" strokeWidth={1} />
                 </div>
                 <div className="p-6">
                   <h3 className="font-display text-[22px] text-deep-forest">Maui</h3>
@@ -140,7 +141,7 @@ export default function Home() {
               </Link>
               <Link to="/kauai" className="group bg-white rounded-2xl overflow-hidden border border-deep-forest/5 hover:shadow-lg hover:shadow-deep-forest/5 transition-all duration-300">
                 <div className="h-[160px] bg-gradient-to-br from-emerald-800/10 to-sand/40 flex items-center justify-center">
-                  <span className="text-[60px] opacity-30 group-hover:scale-110 transition-transform duration-500">🌿</span>
+                  <TreePine className="w-16 h-16 text-emerald-800/30 group-hover:scale-110 transition-transform duration-500" strokeWidth={1} />
                 </div>
                 <div className="p-6">
                   <h3 className="font-display text-[22px] text-deep-forest">Kauai</h3>
@@ -151,7 +152,7 @@ export default function Home() {
               </Link>
               <Link to="/bigisland" className="group bg-white rounded-2xl overflow-hidden border border-deep-forest/5 hover:shadow-lg hover:shadow-deep-forest/5 transition-all duration-300">
                 <div className="h-[160px] bg-gradient-to-br from-deep-forest/10 to-sand/40 flex items-center justify-center">
-                  <span className="text-[60px] opacity-30 group-hover:scale-110 transition-transform duration-500">🌋</span>
+                  <Mountain className="w-16 h-16 text-deep-forest/30 group-hover:scale-110 transition-transform duration-500" strokeWidth={1} />
                 </div>
                 <div className="p-6">
                   <h3 className="font-display text-[22px] text-deep-forest">Big Island</h3>
