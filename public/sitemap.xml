@@ -32,6 +32,36 @@
 
   <!-- Blog Posts -->
   <url>
+    <loc>https://www.beachesnhikes.com/blog/hawaii-hurricane-season-guide</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beachesnhikes.com/blog/hurricane-action-guide</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beachesnhikes.com/blog/september-hawaii-guide</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beachesnhikes.com/blog/lanikai-pillbox-oahu-day</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beachesnhikes.com/blog/best-snorkeling-hawaii-2026</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.beachesnhikes.com/blog/diamond-head-sunrise-guide</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
