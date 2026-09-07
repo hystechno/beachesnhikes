@@ -1440,13 +1440,128 @@ Print the checklist. Bookmark this page. Share it with your travel companions. A
       "**Quick Reference: Best Turtle Spot by Island**\n\n| Island | Best snorkel spot | Best shore viewing |\n|--------|-------------------|--------------------|\n| Oahu | Turtle Canyon (tour) | Laniakea Beach |\n| Maui | Turtle Town / Maluaka | Hookipa Beach (sunset) |\n| Big Island | Kahaluu or Two Step | Punaluu Black Sand Beach |\n| Kauai | Tunnels (summer) | Poipu Beach |\n\nWhichever island you're on, the formula is the same: morning light, calm water, reef edge, patient floating. The honu will do the rest.\n\n**Sources:**\n• NOAA Fisheries — Hawaiian Green Sea Turtles: Recovering Yet Still Protected (fisheries.noaa.gov)\n• Hawaii DLNR, Division of Aquatic Resources — Sea Turtles in Hawaii (dlnr.hawaii.gov/dar/species/sea-turtles)\n• Hawaii DLNR, Division of Boating and Ocean Recreation — Protecting Marine Species (dlnr.hawaii.gov/dobor)\n• NOAA Fisheries — Turtles, Tourism, and Traffic: Keeping Hawaii Honu Safe (fisheries.noaa.gov)\n• Malama i na Honu — Laniakea Beach Turtle Conservation (malamanahonu.org)\n• Hawaii Tourism Authority — Responsible Travel / Malama Hawaii (hawaiitourismauthority.org)",
     ],
   },
+  {
+    id: "october-hawaii-guide",
+    title: "October in Hawaii: Weather, Events & Best Things to Do",
+    excerpt: "Is October a good time to visit Hawaii? Yes — warm 80°F water, small crowds, low prices, and huge events. Your complete October in Hawaii 2026 guide.",
+    category: "Beaches",
+    author: "Beaches & Hikes",
+    date: "September 7, 2026",
+    readTime: "13 min read",
+    image: "/images/blog/october-hawaii-guide.jpg",
+    tags: ["October in Hawaii", "Hawaii Travel", "Oahu", "Maui", "Kauai", "Big Island", "Hawaii Events", "Shoulder Season", "Ironman"],
+    content: [
+      `Ask a Hawaii regular when to visit and you'll hear the same answer again and again: October in Hawaii is the islands' best-kept secret. The summer crowds have flown home, the holiday rush hasn't started, the ocean is at its warmest all year — a bathtub-like 80 degrees — and the calendar is quietly stacked with some of Hawaii's biggest events, from the IRONMAN World Championship in Kona to a world-championship canoe race finishing on Waikiki Beach.
+
+This complete guide covers everything you need to plan an October trip: what the weather is really like, which beaches and hikes shine this month, the events worth planning around, what Halloween looks like in the tropics, and how to cash in on shoulder-season prices. Whether you're bound for Oahu, Maui, Kauai, or the Big Island, here's how to do October right.`,
+      `**Is October a Good Time to Visit Hawaii? (The Short Answer)**
+
+Yes — October is one of the best months of the year to visit Hawaii, especially if you value warm ocean water, thin crowds, and lower prices. Here's the quick case:
+
+- **Weather:** Still summer. Hawaii's summer season (kau) officially runs May through October, with daytime highs in the mid-80s°F and nights in the low 70s°F at sea level.
+- **Ocean:** Sea surface temperatures peak around late September and early October at about 80°F — the warmest swimming of the entire year.
+- **Crowds:** One of the quietest months. Kids are back in school, summer is over, and the Thanksgiving–Christmas wave hasn't arrived.
+- **Prices:** Shoulder season. Airfare and hotel rates in October are typically among the lowest of the year, outside of event weeks.
+- **Events:** IRONMAN World Championship (Oct 10, Big Island), the Molokai Hoe canoe race (Oct 11, finishes in Waikiki), the Hawaii Food & Wine Festival (Oct 16–Nov 8), and Halloween on a Saturday (Oct 31).
+
+The honest trade-offs: it's still hurricane season through November 30 (direct hits are rare but possible), daylight is shrinking (sunset slides from about 6:20 PM early in the month to just before 6:00 PM by Halloween), and the first winter swells can reach the North Shore late in the month. For most travelers, that's a small price to pay for Hawaii at its friendliest.`,
+      `**October Weather: Warm Days and the Warmest Water of the Year**
+
+Expect classic tropical summer with a slight seasonal wobble. Daytime highs run 84–88°F in the resort areas and overnight lows sit in the low 70s°F. The reliable trade winds that keep summer breezy begin to ease and turn variable in October, which means a few more still, humid afternoons and the occasional "Kona weather" day with light southerly winds and volcanic haze on the horizon. Evenings remain wonderfully warm — you'll never need more than a light layer.
+
+The ocean is the real headline. The National Weather Service notes that sea surface temperatures around Hawaii top out near 80°F in late September and early October — this is quite literally the warmest the water gets all year. Snorkeling without a wetsuit, long sunset swims, and teaching the kids to boogie board are all at their most comfortable.
+
+Rain is a non-issue for most visitors: October is the tail end of the dry season on the leeward (south and west) coasts — Waikiki, Kihei–Wailea, Poipu, and the Kona–Kohala coast stay mostly sunny — while windward sides get their usual passing showers. The wetter season arrives November through March. NOAA's Climate Prediction Center outlook (issued August 20, 2026) favors above-normal temperatures for the islands this fall, with a developing El Niño expected to shape winter rainfall.
+
+Two things to actually plan around:
+
+- **Hurricane season** runs June 1 through November 30. October storms affecting Hawaii are uncommon — most years pass without a direct hit — but check the Central Pacific Hurricane Center forecast in the days before you fly and favor flexible, refundable bookings for peace of mind.
+- **Box jellyfish** can drift onto Oahu's south-facing beaches (Waikiki, Ala Moana, Hanauma Bay) 8–12 days after the full moon — in 2026 that window falls around October 4–8. Heed posted signs and lifeguard warnings.
+
+Daylight: sunrise is around 6:20–6:35 AM, and sunset slides from roughly 6:20 PM early in the month to about 5:55 PM by October 31. Book sunset sails and beach dinners a touch earlier as the month goes on.`,
+      `**October's Big Three: Ironman, Molokai Hoe & the Food and Wine Festival**
+
+**IRONMAN World Championship — Saturday, October 10, 2026 (Kailua-Kona, Big Island).** The Super Bowl of triathlon returns to its historic single-day format: pro men and women race together in Kona on the same day for the first time since 2019. More than 2,000 athletes tackle a 2.4-mile swim in Kailua Bay (pros start at 6:25 AM), a 112-mile bike up the Queen Kaahumanu Highway to Hawi and back, and a marathon that finishes on Alii Drive. Spectating is free. The Kailua Pier seawall is the classic swim-start vantage — people stake out spots before 5 AM — and the finish line after dark, as final finishers sprint toward the midnight cutoff, is one of the most emotional scenes in sports. Road closures hit Kailua-Kona and the Queen K on race day, so plan sightseeing elsewhere on the 10th. Hotel alert: Kona sells out and prices spike for race week (roughly Oct 5–12). If you're not racing, base yourself on the Kohala Coast 30–40 minutes north — or pick another island that week.
+
+**Molokai Hoe — Sunday, October 11, 2026 (finishes in Waikiki, Oahu).** The world championship of men's outrigger canoe racing: six-man crews paddle 38+ miles across the Kaiwi Channel from Hale O Lono on Molokai to Duke Kahanamoku Beach at the Hilton Hawaiian Village. The race starts at 8:00 AM off Molokai, the first canoes usually reach Waikiki around 2:00 PM, and the awards ceremony wraps up on the sand by about 3:30 PM. Watching is free — claim a spot on the beach at Fort DeRussy in the early afternoon and cheer the crews home. (Arriving sooner? The women's counterpart, Na Wahine O Ke Kai, runs the same crossing on September 27.)
+
+**Hawaii Food & Wine Festival — October 16–November 8, 2026 (three islands).** Now in its 16th year, the festival co-founded by chefs Roy Yamaguchi and Alan Wong runs three weekends: Hawaii Island October 16–17 (headline tasting "Smoked, Shucked & Cured" on the Mauna Kea Beach Hotel lawn, Sat Oct 17, 6–9 PM, from $300), Kaanapali, Maui October 23–25 ("Caviar, Pearls & Aphrodisiacs" at Sheraton Maui, Sat Oct 24, from $300; "No EGGScuses, Let's Brunch!" at Royal Lahaina, Sun Oct 25, $150), and Oahu November 5–8. Events are 21+ and headline nights sell out — buy tickets as soon as your dates are set.`,
+      `**Best Beaches in October, Island by Island**
+
+The rule of thumb: October still behaves like summer on south- and west-facing shores, while the north shores begin their slow transition to winter. Early October is often the North Shore's last reliably calm stretch — a great window to swim Waimea Bay or snorkel Shark's Cove before winter swells close them out. By late October the first north swells of the season can arrive any day, so always check lifeguard flags and the daily surf report.
+
+- **Oahu:** Waikiki is warm and gentle all month; Lanikai and Kailua serve up calm, postcard-perfect mornings on the windward side; Ala Moana's protected lagoon is the family fallback. North Shore favorites like Waimea and Sunset are usually still swimmable in early October — go now if a calm North Shore day is on your bucket list.
+- **Maui:** Leeward is the play. Kaanapali, Napili, and the Wailea–Makena string stay sunny with glassy mornings, and snorkel boats to Molokini and Turtle Town still enjoy excellent conditions.
+- **Kauai:** As Hanalei and the north shore start seeing their first swells, Poipu on the sunny south side becomes the reliable daily beach — lifeguarded, family-friendly, and a favorite basking spot for honu (Hawaiian green sea turtles).
+- **Big Island:** The Kona and Kohala coasts are at their best. Hapuna, Kaunaoa (Mauna Kea Beach), and Kua Bay offer some of the calmest, clearest water of the year, and manta ray night snorkels out of Kona run year-round in typically gentle October seas.
+
+One snorkel tip for every island: go in the morning. Trade-wind chop and crowds build by midday, and visibility drops with them.`,
+      `**Best Hikes in October: Cooler Mornings, Empty Trails**
+
+October is arguably Hawaii's best hiking month — mornings are a touch cooler, trails are dry, and the summer crowds are gone. Start at sunrise and you'll often have famous trails nearly to yourself.
+
+- **Diamond Head (Oahu):** Non-residents need timed reservations via gostateparks.hawaii.gov ($5 per person plus $10 parking per vehicle). Book the 6 AM slot for cool temps and a summit sunrise over Waikiki.
+- **Makapuu Point Lighthouse Trail (Oahu):** An easy paved two-mile round trip with big windward views. Bonus: the lookout is one of the state's best shore-based whale-watching perches once the season starts — scan the horizon from late October onward, just in case an early arrival spouts.
+- **Lanikai Pillbox / Kaiwa Ridge (Oahu):** A short, steep climb to WWII bunkers above Lanikai Beach. Time it for sunrise (around 6:20 AM) and bring a headlamp for the first stretch.
+- **Awaawapuhi Trail (Kokee, Kauai):** A ridge-line descent to a jaw-dropping Napali Coast overlook. Go early — clouds build over the valleys by late morning.
+- **Pipiwai Trail to Waimoku Falls (Maui):** The bamboo-forest boardwalk in Haleakala National Park's Kipahulu District, ending at a 400-foot waterfall ($30 per vehicle park entry, good for three days).
+- **Haleakala Sunrise (Maui):** Summit entry between 3 and 7 AM requires a $1 recreation.gov reservation (released up to 60 days out). Summit temps can drop into the 40s°F — pack a real jacket.
+- **Kilauea Iki (Big Island):** The classic crater-floor loop in Hawaii Volcanoes National Park. Check nps.gov for current volcanic activity and trail status before you go.
+
+October hiking rules: carry at least a liter of water per person on short hikes (more for crater and ridge routes), pack a light rain shell, and check DLNR closures after heavy rain — flash floods can make stream crossings like Hanakapiai on the Kalalau Trail genuinely dangerous.`,
+      `**Halloween in Hawaii: October 31 Falls on a Saturday in 2026**
+
+Halloween landing on a Saturday means Waikiki goes big. After dark, Kalakaua Avenue turns into an unofficial open-air costume parade — thousands of locals and visitors strolling the strip in costume, with hotels and bars running parties along the way. Families should go early evening; the later it gets, the more adult the scene becomes.
+
+Family-friendly options all month:
+
+- **Ala-Ween Spooktacular (Ala Moana Center, Oahu):** trick-or-treating at 100+ stores with entertainment on Halloween afternoon.
+- **Hallozoo (Honolulu Zoo)** and mall trick-or-treat events at Royal Hawaiian Center and Kahala Mall keep the keiki sugared up in daylight hours.
+- **Pumpkin patches:** Aloun Farms' annual Pumpkin Fall Festival on the Ewa plain (about $5 admission, hayrides, sunflower fields, keiki rides) and Waimanalo Country Farms' fall harvest days on the windward side are the two beloved local options.
+- **Underwater pumpkin carving** at the Alohilani Resort's Oceanarium in Waikiki — aquarists carve jack-o'-lanterns inside the tank. Peak Hawaii.
+- **Hallowbaloo Music & Arts Festival** in Chinatown's arts district is the big 21+ street party (check 2026 dates as they're announced).
+
+Local tip: it's still 80°F after dark in October. Choose breathable costumes, skip the masks and wigs, and body paint beats polyester every time.`,
+      `**October Costs and Booking Strategy**
+
+Shoulder season is your friend. October sits in the trough between summer family travel and the Thanksgiving–New Year rush, and it reliably delivers some of the lowest airfares and hotel rates of the year — especially the first three weeks of the month.
+
+- **Flights:** Book 4–8 weeks out for the best mainland fares; interisland hops are frequent and cheap if you want to split your trip between islands.
+- **Hotels:** Deals everywhere except Kailua-Kona during Ironman week (roughly Oct 5–12). For a Big Island trip that week, base at the Kohala Coast resorts instead.
+- **Rental cars:** Better availability than summer, but still reserve ahead for the Big Island during race week and Maui over the festival weekend.
+- **What NOT to book:** whale-watching tours. Humpback season officially runs November through April. NOAA's sanctuary notes the first whales are usually sighted in October, but sightings stay rare and scattered until December — October ocean tours should target dolphins, manta rays, and snorkeling instead. If whales are your priority, shift your trip to the January–March peak.
+- **Marquee reservations:** Even in shoulder season, book famous tables and luaus (think Mama's Fish House or Old Lahaina Luau on Maui) a few weeks ahead. October thin crowds, not empty.`,
+      `**October in Hawaii FAQ**
+
+**Is October hurricane season in Hawaii?** Yes — the Central Pacific season runs June 1 through November 30. Peak activity is August–September; October impacts are uncommon and direct hits are rare. Monitor the Central Pacific Hurricane Center before and during your trip, and book refundable rates for flexibility.
+
+**Can you swim and snorkel in Hawaii in October?** Absolutely — the ocean is around 80°F, the warmest of the year. Mornings offer the best visibility. Watch for box jellyfish warnings on Oahu's south shore (roughly Oct 4–8 in 2026) and always swim at lifeguarded beaches.
+
+**Can you see whales in Hawaii in October?** Almost certainly not. Humpback season runs November through April; the first arrivals sometimes appear in late October, but reliable sightings don't begin until December. Peak season is January through March.
+
+**Is the North Shore surf big in October?** Usually not yet. The first winter swells can arrive late in the month, but consistent big-wave season is November through February. October is actually your last easy month to swim and snorkel the North Shore.
+
+**Is October a cheap month to visit Hawaii?** Yes — airfares and hotel rates are among the lowest of the year, with two exceptions: Kailua-Kona during Ironman week (Oct 5–12) and Maui during its Food & Wine Festival weekend (Oct 23–25).
+
+**Which Hawaiian island is best in October?** All four shine. Oahu for events and beaches, the Big Island for Ironman week, mantas, and the volcano, Maui for snorkeling and the food festival, and Kauai for south-side beach days and hiking before the winter rains. You can't pick wrong.`,
+      `**Sources:**
+• National Weather Service Honolulu — Climate of Hawaii (weather.gov)
+• NOAA Climate Prediction Center — Hawaiian Islands Seasonal Outlook (cpc.ncep.noaa.gov)
+• NOAA Hawaiian Islands Humpback Whale National Marine Sanctuary (hawaiihumpbackwhale.noaa.gov)
+• IRONMAN — 2026 IRONMAN World Championship, Kailua-Kona (ironman.com)
+• Oahu Hawaiian Canoe Racing Association — Molokai Hoe (molokaihoe.com)
+• Hawaii Food & Wine Festival — 2026 Festival Schedule (hawaiifoodandwinefestival.com)
+• GoHawaii — Hawaii Events & Festivals (gohawaii.com)
+• Hawaii DLNR — Division of State Parks (dlnr.hawaii.gov)`,
+    ],
+  },
 ];
 
 export const featuredBlogIds = [
+  "october-hawaii-guide",
   "best-sea-turtle-spots-hawaii",
   "best-snorkeling-hawaii-2026",
   "lanikai-pillbox-oahu-day",
-  "september-hawaii-guide",
 ];
 
 // Future blog schedule (2 per month, 1st and 15th)
@@ -1458,4 +1573,5 @@ export const futureBlogSchedule = [
   { date: "November 15, 2026", topic: "Trail Running on Oahu" },
   { date: "December 1, 2026", topic: "Holiday Events on Oahu" },
   { date: "December 15, 2026", topic: "New Year's Sunrise Spots" },
+  { date: "January 1, 2027", topic: "Manta Ray Night Snorkel: Big Island Guide" },
 ];
