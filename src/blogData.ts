@@ -1555,18 +1555,125 @@ Shoulder season is your friend. October sits in the trough between summer family
 • Hawaii DLNR — Division of State Parks (dlnr.hawaii.gov)`,
     ],
   },
+  {
+    id: "oahu-camping-guide",
+    title: "Oahu Camping Guide: Best Campgrounds, Permits & Costs",
+    excerpt: "Can you camp on the beach in Oahu? Yes — with a permit. Complete guide to state park, city, and private campgrounds, with fees, rules, and booking tips.",
+    category: "Hiking",
+    author: "Beaches & Hikes",
+    date: "September 14, 2026",
+    readTime: "12 min read",
+    image: "/images/blog/oahu-camping-guide.jpg",
+    tags: ["Oahu", "Camping", "Hiking", "Permits", "Budget Travel", "North Shore", "Malaekahana", "Hawaii State Parks"],
+    content: [
+      `There is a way to sleep beachfront on Oahu for about $30 a night — and it isn't a hotel hack, a sketchy short-term rental, or a friend's couch. It's a tent, a permit, and a state or county campground twenty feet from the sand. Oahu camping is one of the best-kept budget secrets in Hawaii travel: while resort rooms push past $300 a night, a legal campsite on one of the island's most beautiful beaches costs a tenth of that.
+
+The catch? You can't just pitch a tent on any beach. Every legal campground on Oahu — state park, city beach park, or private camp — requires a permit booked in advance, and the rules are enforced. This complete Oahu camping guide covers every legal option: which campgrounds are worth it, exactly what they cost in 2026, how the booking systems work, the rules that trip up visitors, and why fall is arguably the best season to do it.`,
+      `**Can You Camp on the Beach in Oahu? (The Short Answer)**
+
+Yes — but only in designated campgrounds, and always with a paid permit. There is no free, legal camping anywhere on Oahu. Camping on a random beach without a permit is illegal and actively cited.
+
+Your three legal options:
+
+1. **State parks (DLNR Division of State Parks):** Four Oahu parks offer tent camping — Mālaekahana, Ahupuaʻa ʻO Kahana, Keaīwa Heiau, and Sand Island. Permits run $20/night per campsite for Hawaii residents and $30/night for non-residents (up to 10 people), bookable a maximum of 30 days ahead through the Explore Outdoor Hawaiʻi system.
+2. **City & County of Honolulu beach parks:** Around 16 campgrounds at county beach parks, at $10 per site per day, sold as 3-day permits ($32.75 with fees) or 5-day permits ($53.22 with fees). Reservations open two weeks out, Fridays at 5 PM, at camping.honolulu.gov.
+3. **Private camps:** Camp Mokulēʻia and YMCA Camp Erdman on the North Shore offer tent sites, cabins, and yurts on private beachfront — no public permit needed, book direct.
+
+One quirk that surprises everyone: there is NO state park camping on Oahu Wednesday and Thursday nights, and every city campground closes Wednesdays and Thursdays too. Plan your trip around a Friday-through-Tuesday rhythm.`,
+      `**State Park Camping: The Four DLNR Campgrounds**
+
+State park campsites cost $20/night (residents) or $30/night (non-residents) per campsite for up to 10 people, kids 2 and under free, plus a 10% administrative fee. Oahu permits open just 30 days in advance — set a calendar reminder for your date. Since February 2026, state park camping reservations run through the new Explore Outdoor Hawaiʻi portal (explore.ehawaii.gov); create an account before your booking window opens. Maximum stay is five consecutive nights at any one park, and you must be 18 or older to hold a permit. Print it — you're required to carry a copy.
+
+**Mālaekahana State Recreation Area (North Shore, off Kamehameha Hwy near Lāʻie).** The crown jewel: a wooded beach park with 37 developed tent campsites steps from a long sandy beach with good swimming and bodysurfing. Camping runs Friday through Wednesday, check-in at 3 PM, check-out at noon. Gates lock at night (7:45 PM in summer, 6:45 PM after Labor Day) — arrive before closing or you're locked out, and overnight vehicles need a parking permit. The Kahuku section is mid-renovation, but the Kalanai Point section is open. Pro tip: request an oceanfront site on the point for sunrise straight out of your tent.
+
+**Ahupuaʻa ʻO Kahana State Park (Windward coast).** The most "beach camping" experience on Oahu — campsites sit in a grove behind Kahana Bay's calm, protected crescent. The bay is one of the island's safest year-round swim spots, and the park's two valley trails (Kapaʻeleʻele Koʻa and Nakoa) make it a legit base camp for hikers. Sites are basic (restrooms, outdoor showers, picnic tables) and the mosquitoes are motivated — pack repellent.
+
+**Keaīwa Heiau State Recreation Area (Aiea Heights).** The mountain option: cool upland forest 20 minutes from Waikiki, and the trailhead for the 4.8-mile ʻAiea Loop Trail — one of Oahu's best moderate ridge hikes. Nights here run noticeably cooler than the beach (you may actually want a light sleeping bag), and sunrise over the Koʻolau is spectacular. No beach, obviously — this one is for hikers.
+
+**Sand Island State Recreation Area (Honolulu).** Weekend-only shoreline camping near the urban core. Note: camping here has been closed for a construction project since late August 2025 — check the DLNR Sand Island page for reopening status before planning around it.`,
+      `**City & County Camping: 16 Beach Parks at $10 a Day**
+
+The City and County of Honolulu runs Oahu's biggest campground network — around 16 beach parks bookable at camping.honolulu.gov. The structure is different from the state system:
+
+- Sites are $10/day, sold as 3-day permits ($32.75 all-in) or 5-day permits ($53.22 all-in) — you pay for the block even if you stay fewer nights.
+- Each permit covers up to 10 campers and 3 vehicles.
+- Reservations open two weeks ahead at 5 PM on Fridays. Popular parks sell out in minutes — be logged in and ready at 4:58.
+- 3-day camping runs Friday to Monday; 5-day runs Friday to Wednesday. All city campgrounds close Wednesdays and Thursdays.
+
+The standouts:
+
+**Bellows Field Beach Park (Waimānalo).** Oahu's most beloved campground: 50 sites on the powder-white sand of Waimānalo Beach, shaded by ironwoods, with some of the island's best beginner bodyboarding right out front. It's an active military training area, so the park locks down nightly from 8 PM to 6 AM (campers stay put) and closes Monday 8 AM to Friday noon. Permit holders only inside after dark, which makes it one of the safest-feeling spots on the island.
+
+**Hoʻomaluhia Botanical Garden (Kāneʻohe).** The only city campground NOT on a beach — three campsites inside a 400-acre rainforest garden beneath the Koʻolau pali. Camping runs Friday 9 AM to Monday 4 PM, and there's free catch-and-release fishing at the lake on weekends from 10 AM to 2 PM. Expect rain, mud, and mosquitoes; bring a real rainfly. This is your best bet for a last-minute site when the beach parks sell out.
+
+**Kaiaka Bay Beach Park (Haleʻiwa).** A five-day site on the North Shore's west side — grassy, shaded, fronting a rivermouth bay with tidepools. Calmer than the famous surf beaches in summer and fall.
+
+Other solid picks: Waimānalo Beach Park, Kalaeloa Beach Park (Ewa side, remote feel), and Punaluʻu Beach Park (windward, good snorkeling).`,
+      `**Private Camps and Backcountry**
+
+**Camp Mokulēʻia (North Shore).** A rustic Episcopal church camp on prime North Shore beachfront near Mokulēʻia Beach Park — tent sites, bunk cabins, and lodge rooms a few steps from snorkeling coves where dolphins and turtles cruise by. It's low-frills and lovely; request current rates and availability through their reservation form at campmokuleia.org or call (808) 637-6241. Groups book it out, so ask early.
+
+**YMCA Camp Erdman (Mokulēʻia).** The glamping move: beachfront yurts and cabins starting around $250 a night, with lanais, kitchenettes, and a private stretch of coastline. No YMCA membership required to book; weekends need a two-night minimum. It's not "cheap" like public camping, but it's the easiest way to sleep on the North Shore with a real bed — and kamaʻāina get discounts.
+
+**Peacock Flats (Mokulēʻia Forest Reserve).** The backcountry option for experienced campers: a remote, primitive mountaintop campground with big Koʻolau views and serious stargazing. Access is 4WD-only over rough forest roads, everyone in the vehicle must be listed on the permit, and there's no water on site — bring everything. Forest Reserve permits are still booked through camping.ehawaii.gov (NOT the new Explore portal used by state parks). Check DLNR for current road status before committing — the Mokulēʻia vehicle access road has had storm-related closures in 2026, and wet-season mud can make the drive genuinely sketchy. Not for first-timers.`,
+      `**Why Fall Is the Sweet Spot for Oahu Camping**
+
+September and October are quietly the best months to camp on Oahu. Summer crowds are gone, so permits that evaporated in minutes during July are actually gettable. Nights drop into the low 70s — cool enough to sleep well without a heavy bag. The ocean stays warm (around 80°F in early fall), and the windward campgrounds sit in the driest stretch of their year.
+
+Fall is also your last easy window for North Shore camping before winter surf arrives. By November, the big swells that make the North Shore famous can wash up right to the vegetation line at places like Mālaekahana — spectacular to watch, less fun to sleep next to. September and October give you the North Shore in its calm, swimmable mode.
+
+Two fall caveats to plan around:
+
+- **Hurricane season runs through November 30.** Campgrounds shut down during tropical storm and hurricane warnings (forest reserves close entirely, and the city cancels camping permits — they did exactly that during Hurricane Douglas). Buy travel insurance or keep your plans flexible, and never camp in a valley or dry streambed when rain is forecast — flash floods are the real killer in Hawaii, not hurricanes.
+- **Trade winds ease in fall**, which means more still, muggy nights. A battery-powered fan is the single best luxury item you can pack for a warm-weather tent.`,
+      `**Rules That Trip People Up (and What to Pack)**
+
+The big ones, learned the hard way by generations of visitors:
+
+- **No free camping, anywhere.** All permits cost money; "freedom camping" on beaches gets cited.
+- **No sleeping in vehicles** at state park campgrounds — no campervans, no rooftop tents, no exceptions (the only state park in Hawaii that allows it is Waiʻānapanapa on Maui). City parks allow it at some sites — read your specific permit.
+- **Print your permit and carry it.** Rangers check.
+- **No pets, no alcohol, no generators, no drones** in state parks. Campfires only in designated rings or raised containers; drown them before leaving.
+- **Wednesday and Thursday nights are dead zones** — nothing state or county is open. Slot private camps or a hotel mid-week if your trip spans those nights.
+- **One campsite per park per party** at a time, and five consecutive nights max — then a 30-day cooldown at that park.
+- **Watch the ocean, not just the weather app.** Campgrounds like Kahana Bay and Mālaekahana sit feet from the waterline; check the surf report before bed and set up above the debris line.
+
+Packing for Oahu specifically: a tent with a real rainfly (windward showers arrive without warning), reef-safe mineral sunscreen (required by Hawaii law for ocean entry), bug spray for Hoomaluhia and Kahana, a battery fan, a headlamp (no lights in campgrounds at night), a dry bag for electronics, and cash-free payment only for permits — everything books online in advance.`,
+      `**Oahu Camping FAQ**
+
+**Can you camp for free anywhere on Oahu?** No. Every legal campground — state, county, or private — requires a paid permit or booking. Beach camping without a permit is illegal and enforced.
+
+**Do I need to book in advance?** Yes. State parks open 30 days out (and fill fast for Mālaekahana weekends); city parks open two weeks out, Fridays at 5 PM, and Bellows sells out in minutes. Private camps book weeks to months ahead for weekends.
+
+**Can I camp in a campervan or RV?** Not at state parks (tents only). A few city campgrounds and the private camps allow vehicles — confirm on your permit. True RV hookups essentially don't exist at public campgrounds on Oahu.
+
+**Why can't I book Wednesday or Thursday?** Both the state and the city close Oahu campgrounds Wednesday and Thursday nights for maintenance and land management. It's a universal blackout — build your itinerary around it.
+
+**What's the best Oahu campground for first-timers?** Bellows Field Beach Park for the classic white-sand beach experience (and the nightly lockdown makes it feel secure), or Mālaekahana for a North Shore vibe with real facilities. Both have restrooms and showers.
+
+**Is October a good month to camp on Oahu?** One of the best — warm 80°F water, cooling nights, thin crowds, and the North Shore still calm before winter surf. Just keep hurricane season (through November 30) in mind and stay flexible.
+
+**Can I camp on other Hawaiian islands?** Yes — the same DLNR system covers Maui, Kauai, and the Big Island, with longer booking windows (up to a year) and more options like Polihale on Kauai. Oahu's 30-day window and midweek closures are the exceptions, not the rule.`,
+      `**Sources:**
+• Hawaii DLNR Division of State Parks — Oʻahu Camping & Lodging (dlnr.hawaii.gov)
+• Hawaii DLNR Division of State Parks — Permits & Fees (dlnr.hawaii.gov)
+• Explore Outdoor Hawaiʻi — State Camping Reservations (explore.ehawaii.gov)
+• City & County of Honolulu DPR — Camping Permits (camping.honolulu.gov / honolulu.gov)
+• YMCA of Honolulu — Camp Erdman Yurt & Cabin Rentals (ymcahonolulu.org)
+• Camp Mokulēʻia — Reservations & Rates (campmokuleia.org)`,
+    ],
+  },
 ];
 
 export const featuredBlogIds = [
+  "oahu-camping-guide",
   "october-hawaii-guide",
   "best-sea-turtle-spots-hawaii",
   "best-snorkeling-hawaii-2026",
-  "lanikai-pillbox-oahu-day",
 ];
 
 // Future blog schedule (2 per month, 1st and 15th)
 export const futureBlogSchedule = [
-  { date: "September 15, 2026", topic: "Oahu Camping Guide" },
   { date: "October 1, 2026", topic: "Whale Watching on Oahu" },
   { date: "October 15, 2026", topic: "Best Coffee Shops Near Trails" },
   { date: "November 1, 2026", topic: "Oahu's Best Kept Secret Beaches" },
@@ -1574,4 +1681,5 @@ export const futureBlogSchedule = [
   { date: "December 1, 2026", topic: "Holiday Events on Oahu" },
   { date: "December 15, 2026", topic: "New Year's Sunrise Spots" },
   { date: "January 1, 2027", topic: "Manta Ray Night Snorkel: Big Island Guide" },
+  { date: "February 1, 2027", topic: "Best Winter Hikes on Oahu" },
 ];
