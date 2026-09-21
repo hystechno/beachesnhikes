@@ -1663,18 +1663,130 @@ Packing for Oahu specifically: a tent with a real rainfly (windward showers arri
 • Camp Mokulēʻia — Reservations & Rates (campmokuleia.org)`,
     ],
   },
+  {
+    id: "whale-watching-oahu-guide",
+    title: "Whale Watching on Oahu: Best Spots, Tours & Season Guide",
+    excerpt: "When is whale watching season on Oahu? November–April, peaking January–March. Best free shore spots, tour costs, and the 100-yard rule explained.",
+    category: "Beaches",
+    author: "Beaches & Hikes",
+    date: "September 21, 2026",
+    readTime: "13 min read",
+    image: "/images/blog/whale-watching-oahu-guide.jpg",
+    tags: ["Whale Watching Oahu", "Humpback Whales", "Kohola", "Makapuu", "Oahu Winter", "Sanctuary Ocean Count", "Hawaii Wildlife"],
+    content: [
+      `Every winter, the ocean off Oahu stages one of nature's greatest shows. Humpback whales — kohola in Hawaiian — migrate more than 3,000 miles from their summer feeding grounds in Alaska to Hawaii's warm, sheltered waters to mate, give birth, and raise their calves. From the first spouts of November to the last tail slaps of April, an estimated 10,000 to 12,000 humpbacks pass through the island chain, and Oahu offers front-row seats: you can watch a 40-ton whale launch clear out of the water from a free clifftop trail, no boat required.
+
+This complete guide to whale watching on Oahu covers everything you need for the 2026–2027 season: exactly when the whales arrive and when sightings peak, the best shore-based viewing spots (with parking and trail details), what boat tours cost and which harbors they leave from, the federal 100-yard rule every ocean user must know, and how to join the Sanctuary Ocean Count as a volunteer. Peak season is January through March — here's how to plan for it.`,
+      `**When Is Whale Watching Season on Oahu? (The Short Answer)**
+
+Humpback whale season on Oahu runs from November through April, with the reliable peak from January through March. That's the direct answer — but the season has real texture, and where your trip falls inside it makes a big difference:
+
+- **September–October:** The very first arrivals. Whale Trust confirmed the 2025–26 season's first whale on September 21, 2025, and most years produce a first sighting by early-to-mid October. Sightings this early are rare enough to make the local news — wonderful if you luck into one, but don't plan a trip around it.
+- **November–December:** Early season. The first waves of whales — mostly adult males — arrive in growing numbers, and dedicated whale watch tours begin running in mid-December. Odds of seeing whales on any given outing are good by late December but not yet guaranteed.
+- **January–March:** Peak season. The highest number of whales are in Hawaiian waters — breaching, tail-slapping, and escorting newborn calves. Every shore spot in this guide is reliably productive, and many boat tours offer sighting guarantees. February is traditionally the single best month.
+- **April:** Late season. Numbers taper, but the whales that linger are often mothers with calves building strength for the migration north — some of the sweetest viewing of the year.
+- **May–October:** The whales are 3,000 miles away feeding in Alaska. Oahu's spinner dolphins, sea turtles, and monk seals keep the wildlife calendar full until they return.
+
+The best time of day is early morning, before the trade winds build. A glassy ocean makes it far easier to spot a blow — the misty spout that hangs in the air for a few seconds when a whale exhales. During the February 28, 2026 Sanctuary Ocean Count, volunteers tallied 288 humpback whales from Oahu's shoreline in a single morning. They're out there.`,
+      `**Why Thousands of Whales Swim 3,000 Miles to Hawaii**
+
+Humpback whales make one of the longest migrations of any mammal on Earth. Each winter, an estimated 10,000 to 12,000 North Pacific humpbacks — roughly half the entire population — travel more than 3,000 miles from the cold, food-rich waters of Alaska to the warm, sheltered shallows of Hawaii. Here's the remarkable part: they eat almost nothing while they're here. Hawaii's clear tropical water doesn't support the krill and small fish humpbacks feed on, so the whales live off stored blubber for the entire visit.
+
+What Hawaii offers instead is the perfect nursery. The islands' warm, relatively shallow, protected waters are where humpbacks mate, where pregnant females give birth after an 11-to-12-month gestation, and where newborn calves — already 10 to 15 feet long and weighing around a ton — build the strength and fat reserves they need for their first migration north. The most important habitat, including the shallow Maui Nui channels, the Penguin Bank, and waters off Oahu, is protected as the Hawaiian Islands Humpback Whale National Marine Sanctuary, co-managed by NOAA and the State of Hawaii.
+
+The whales — kohola, a creature honored in the Kumulipo, the Hawaiian creation chant — put on a show that needs no translation: full-body breaches, tail slaps that crack like cannon fire across the water, pectoral-fin waves, and dramatic "competition pods" of males chasing a female. Males also sing complex songs that can run up to 20 minutes and repeat for hours. Many boat tours drop a hydrophone so you can listen live, and on calm peak-season days snorkelers sometimes hear the songs right through the water.
+
+One conservation note before the where-to-go sections: humpbacks are protected under the Marine Mammal Protection Act, and federal rules strictly limit how close anyone — boat, board, drone, or swimmer — may approach. Full details below, because they shape every whale encounter you'll have.`,
+      `**The Best Free Shore-Based Whale Watching Spots on Oahu**
+
+You do not need a boat to whale watch on Oahu — some of the best seats in the state are free clifftop lookouts. Pack binoculars (8x or 10x is ideal), polarized sunglasses, water, and patience, and use the 15-minute rule: give each spot at least 15 minutes of steady scanning before moving on.
+
+**1. Makapuu Point Lighthouse Trail (Kaiwi Scenic Shoreline).** Oahu's signature whale watching hike. A paved, moderately steep trail climbs about 500 feet over roughly a mile to a summit overlooking the Kaiwi Channel — a humpback highway. Stop at the whale interpretive sign about two-thirds of the way up; it marks one of the best scanning perches, with mounted viewing scopes pointed at the water. The summit lookout adds views of Koko Crater, offshore seabird islets, and, on clear days, Molokai and Lanai. Free. The small parking lot sits off Kalanianaole Highway about a mile past the Hawaii Kai golf course; it typically opens at 7 AM and locks around 6:45 PM, and it fills fast on January–March weekends — go at sunrise.
+
+**2. Diamond Head Lookout.** Not the summit hike — the roadside lookout on Diamond Head Road between the crater and Black Point. Elevated, free, and steps from your car, it's the easiest whale scanning on the island and ideal for kids and anyone with mobility limits. (Want the famous hike too? Diamond Head summit requires timed reservations at gostateparks.hawaii.gov — $5 per person plus $10 parking — and its seaward lookouts are productive in season as well.)
+
+**3. Kaena Point.** Oahu's wild westernmost tip, where deep water comes close to shore. Hike the flat, exposed coastal track — roughly 2.5 miles one way from either the Waianae-side or Mokuleia-side trailhead — to the point's natural area reserve, then scan: whales cruise past all season, and you'll likely share the beach with basking Hawaiian monk seals. Bring serious water and sun protection; there is no shade.
+
+**4. Lanai Lookout and the Koko Head coast.** The pullouts along Kalanianaole Highway between Hanauma Bay and Sandy Beach — Lanai Lookout and the Halona Blowhole lookout — sit high above whale-traveled water. Lanai Lookout is an official Sanctuary Ocean Count site, which tells you how consistent the sightings are.
+
+**5. The North Shore (bonus).** Aerial surveys show humpbacks favor the deep water off the North Shore. There's no single famous perch, but if you're at Sunset Beach, Pipeline, or Waimea Bay between December and March watching the big-wave surfers, glance at the horizon between sets — spouts and breaches offshore are a regular winter bonus.
+
+Wherever you watch, scan for the blow first: a white puff against blue water. Then watch that patch of ocean for the dark back, the lifting tail fluke — or, if you're lucky, a full breach.`,
+      `**Whale Watching Tours on Oahu: Harbors, Costs & What to Expect**
+
+A boat tour gets you as close to the action as the law allows — about 100 yards — and puts a captain's eyes, a naturalist's knowledge, and often a hydrophone to work for you. Oahu's whale watch fleet sails from three areas:
+
+- **Waikiki and Honolulu:** Tours depart from Kewalo Basin Harbor, Ala Wai Small Boat Harbor, and catamarans right off Waikiki Beach. The most convenient option if you're staying in Waikiki — no car needed.
+- **Ko Olina and the Waianae Coast (west side):** Departures from Ko Olina Marina and Waianae Small Boat Harbor. The leeward coast typically has the calmest, sunniest water on the island, and these tours frequently add spinner dolphin encounters — the Waianae coast is famous for them — to the whale search.
+- **North Shore (Haleiwa):** Smaller operators run out of Haleiwa Small Boat Harbor when winter surf permits. Beautiful and uncrowded, but the most weather-dependent option.
+
+**What it costs:** Expect roughly $100–$150 per adult for a standard two-hour whale watch on a larger catamaran, with child discounts. Premium small-group boats and naturalist-led tours run about $150–$205 per person, and combination tours that add snorkeling or dolphin watching start around $190. Many operators offer a whale sighting guarantee during peak season — see no whales, ride again free — so ask before you book.
+
+**When tours run:** Dedicated whale watch tours operate from mid-December through early April. November ocean tours focus on dolphins and snorkeling instead.
+
+**Booking tips:**
+
+- Book January–February trips at least two to four weeks ahead — holiday weeks and weekends sell out.
+- Choose a morning departure. Trade-wind chop builds by midday, and calm seas mean better sightings and happier stomachs.
+- If anyone in your group is prone to motion sickness, take medication the night before and the morning of, and pick a larger catamaran over a small raft.
+- Pack reef-safe sunscreen, a hat with a strap, a light rain layer, and a camera with real zoom — whales keep their legal distance, so a phone alone will under-deliver.`,
+      `**The 100-Yard Rule: Whale Watching Laws Every Visitor Must Know**
+
+Humpback whales in Hawaii are protected under the Marine Mammal Protection Act, and NOAA Fisheries' approach regulations are unambiguous:
+
+- **Stay 100 yards away.** It is illegal to approach a humpback whale within 100 yards by any means — boat, kayak, paddleboard, drone, or swimming. Aircraft must stay 1,000 feet away.
+- **No interception.** You may not place a vessel, person, or object in a whale's path so that the whale ends up approaching you.
+- **No disruption.** Any act that disrupts a whale's normal behavior is prohibited.
+- **If the whale approaches you** — a "mugging," in whale watch slang — put engines in neutral, stay put, and enjoy it. The whale isn't bound by the rule; you are.
+
+There is no legal way to swim or snorkel with humpback whales in Hawaii — skip any seller who promises it. Violations carry steep federal civil and criminal penalties, and NOAA enforcement is active all season.
+
+Boaters should also follow the "Go Slow, Whales Below" best practices developed by DLNR, the sanctuary, and Pacific Whale Foundation: 15 knots or less in water 600 feet deep or less during whale season, and 6 knots or less within 400 yards of whales. Calves surface unpredictably and are slow to avoid vessels.
+
+If you see an entangled, injured, or distressed whale: keep your distance and call the NOAA 24/7 Marine Wildlife Hotline at (888) 256-9840, or the U.S. Coast Guard on VHF Channel 16. Never attempt a disentanglement yourself — untrained rescues have killed people, and rapid reporting genuinely saves whales. To report harassment or violations, call NOAA's enforcement hotline at (800) 853-1964.`,
+      `**Join the 2027 Sanctuary Ocean Count: January 30, February 27, March 27**
+
+Want your whale watching to mean something? The Sanctuary Ocean Count is one of the world's longest-running community science projects — 2026 marked its 30th anniversary — and visitors are welcome. On the last Saturdays of January, February, and March, volunteers station themselves at shoreline sites on Oahu, Kauai, Molokai, and Hawaii Island from 8:00 AM to 12:15 PM, tallying every whale sighting and surface behavior. Pacific Whale Foundation runs its Great Whale Count the same mornings on Maui and Lanai, so the whole island chain gets surveyed at once.
+
+**The 2027 count dates are Saturday, January 30; Saturday, February 27; and Saturday, March 27, 2027.** Registration is free at oceancount.org and opens in early January — registration for each count opens the first Monday of that count's month, and popular sites fill up. Bring a chair, water, snacks, and sun protection; binoculars are helpful but not required, and your site leader provides the briefing and data sheet.
+
+The scale is impressive: during the 2026 season, more than 1,200 volunteers recorded 4,325 whale sightings across the three counts — 1,954 in January, 1,935 in February, and 436 in a storm-shortened March — and shared whale knowledge with more than 1,600 curious passersby. Oahu counters tallied 288 whales on the February morning alone. If your trip lands on a count Saturday, it's one of the most memorable free mornings in Hawaii.`,
+      `**Whale Watching on Oahu FAQ**
+
+**Can you see whales from shore on Oahu?** Yes — Oahu has excellent free shore-based whale watching. Makapuu Point Lighthouse Trail, Diamond Head Lookout, Kaena Point, and Lanai Lookout are the most reliable spots from January through March. Bring binoculars and give each spot at least 15 minutes.
+
+**When is the best month for whale watching on Oahu?** February is traditionally the peak, but all of January through March offers excellent, near-guaranteed sightings. The overall season runs November through April.
+
+**How much does whale watching cost on Oahu?** Shore viewing is completely free. Boat tours typically cost $100–$150 per adult for a standard two-hour cruise and $150–$205 for premium small-group trips. Many peak-season tours include a sighting guarantee.
+
+**Can you swim with humpback whales in Hawaii?** No. Federal law prohibits approaching within 100 yards of a humpback whale by any means, including swimming. Any operator selling "swim with whales" experiences in Hawaii is selling something illegal.
+
+**Are there whales in Oahu in November or December?** Yes, but in small numbers. Early arrivals appear from November, tours start in mid-December, and sightings become consistent around late December. For near-certainty, visit January through March.
+
+**What time of day is best for whale watching?** Early morning, before the trade winds build. Calm seas make spouts and breaches far easier to spot from shore or boat.
+
+**What else might you see on a whale watch?** Hawaiian spinner dolphins (especially off the Waianae coast), green sea turtles, monk seals, and seabirds are year-round regulars — and a winter visit doubles up with Oahu's famous North Shore big-wave season.`,
+      `**Sources:**
+• NOAA — Hawaiian Islands Humpback Whale National Marine Sanctuary (hawaiihumpbackwhale.noaa.gov)
+• NOAA Fisheries — Approach Regulations for Humpback Whales in Hawaiian Waters (fisheries.noaa.gov)
+• NOAA Office of National Marine Sanctuaries — 2026 Sanctuary Ocean Count Recap (sanctuaries.noaa.gov)
+• Sanctuary Ocean Count — 2027 Count Dates & Volunteer Registration (oceancount.org)
+• Hawaii DLNR — Go Slow, Whales Below: Boating With Whales (dlnr.hawaii.gov)
+• Pacific Whale Foundation — Great Whale Count (pacificwhale.org)
+• GoHawaii — Makapuu Point Lighthouse, Oahu (gohawaii.com)`,
+    ],
+  },
 ];
 
 export const featuredBlogIds = [
+  "whale-watching-oahu-guide",
   "oahu-camping-guide",
   "october-hawaii-guide",
   "best-sea-turtle-spots-hawaii",
-  "best-snorkeling-hawaii-2026",
 ];
 
 // Future blog schedule (2 per month, 1st and 15th)
 export const futureBlogSchedule = [
-  { date: "October 1, 2026", topic: "Whale Watching on Oahu" },
   { date: "October 15, 2026", topic: "Best Coffee Shops Near Trails" },
   { date: "November 1, 2026", topic: "Oahu's Best Kept Secret Beaches" },
   { date: "November 15, 2026", topic: "Trail Running on Oahu" },
@@ -1682,4 +1794,5 @@ export const futureBlogSchedule = [
   { date: "December 15, 2026", topic: "New Year's Sunrise Spots" },
   { date: "January 1, 2027", topic: "Manta Ray Night Snorkel: Big Island Guide" },
   { date: "February 1, 2027", topic: "Best Winter Hikes on Oahu" },
+  { date: "March 1, 2027", topic: "Spring Break in Hawaii: Best Beaches & Hikes" },
 ];
