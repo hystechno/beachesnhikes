@@ -1776,13 +1776,125 @@ The scale is impressive: during the 2026 season, more than 1,200 volunteers reco
 • GoHawaii — Makapuu Point Lighthouse, Oahu (gohawaii.com)`,
     ],
   },
+  {
+    id: "north-shore-surf-season-guide",
+    title: "North Shore Surf Season: Big Wave Watching Guide (2026-27)",
+    excerpt: "When is big wave season on Oahu's North Shore? November-February. Where to watch Pipeline, Waimea & Sunset, 2026-27 surf contests, and safety tips.",
+    category: "Surfing",
+    author: "Beaches & Hikes",
+    date: "September 28, 2026",
+    readTime: "12 min read",
+    image: "/images/blog/north-shore-surf-season-guide.jpg",
+    tags: ["North Shore Surf", "Banzai Pipeline", "Waimea Bay", "Eddie Aikau", "Pipe Masters", "Big Wave Surfing", "Oahu Winter", "Surf Contests"],
+    content: [
+      `Every winter, a seven-mile stretch of Oahu's coastline wakes up. From November through February, storms spinning across the North Pacific send long-period swells marching toward Hawaii, and the North Shore of Oahu — the legendary "Seven Mile Miracle" from Haleiwa to Velzyland — transforms into the undisputed big-wave capital of the world. Waves the size of buildings detonate onto shallow reefs at Banzai Pipeline, Waimea Bay, and Sunset Beach, the world's best surfers fly in from every corner of the globe, and the entire show plays out free of charge, mere yards from the sand.
+
+This is your complete guide to the North Shore surf season: exactly when the big waves arrive, the full 2026-27 surf contest schedule (including the Pipe Masters' return to its classic December window and the Eddie Aikau Big Wave Invitational holding period), the four best places to watch from shore, how to stay safe around genuinely dangerous surf, and how to plan a North Shore day trip without spending it stuck in traffic. Whether you surf or not, winter on the North Shore belongs on your Hawaii bucket list.`,
+      `**When Is Big Wave Season on Oahu's North Shore? (The Short Answer)**
+
+Big wave season on the North Shore runs from November through February, with the most consistent giant surf in December and January. The North Shore's famous breaks only come alive when north- and northwest-facing swells arrive from North Pacific storms — in summer, the same beaches are often flat enough to snorkel. Here's the season month by month:
+
+- **October:** The warm-up. The first north swells of the season arrive inconsistently, the water is still a bathtub-warm 80°F, and amateur and keiki (kids) contests kick off the calendar. Fun to watch, but don't book a trip around it yet.
+- **November:** The season proper begins. Serious swells start showing up, pro surfers filter back onto the coast, and the first big contests run in the back half of the month. Expect faces of 6 to 15 feet on good days — occasionally bigger.
+- **December:** Peak season opens. The Pipe Masters window (December 8-20) and the Eddie Aikau holding period (opening December 6) both begin, and the coast delivers its most reliable big surf — along with its biggest crowds.
+- **January:** Peak continues. The Da Hui Backdoor Shootout runs at Pipeline, everyone keeps one eye on Waimea for the Eddie, and the Championship Tour fires back up at month's end. Historically, January produces the most Eddie-sized days.
+- **February:** Still pumping, with Championship Tour windows at Pipeline and Sunset and slightly lighter crowds. Late-season monsters are entirely possible — the 2016 Eddie ran on February 25.
+- **March–April:** The taper. Occasional late swells light up the reefs, but the traveling pros move on and the beaches slowly hand themselves back to swimmers.
+- **May–September:** Off-season. The Seven Mile Miracle goes flat — the same shoreline becomes prime swimming, snorkeling, and beginner-surf territory. First-timers who visit in July and ask "Where's Pipeline?" are genuinely confused: the wave simply doesn't exist in summer.
+
+Within any given week, the best viewing is almost always in the morning, when trade winds are light and the surf is glassy; onshore chop builds through the afternoon. And remember that modern forecasting makes this easy: big swells are visible on Surfline and National Weather Service forecasts three to five days before they arrive, so you can time your North Shore day trip to coincide with a real swell instead of hoping.`,
+      `**The 2026-27 North Shore Surf Contest Schedule**
+
+Winter on the North Shore doubles as professional surfing's world championship season. Contests are permitted by the City and County of Honolulu inside multi-day windows — each event then picks the best three to four days of surf within its window, so a window is a range, not a promise. Here's the 2026-27 lineup:
+
+- **Sunset Pro (WSL Qualifying Series): November 19-26, 2026, Sunset Beach.** The season opener. Up-and-coming pros battle for Championship Tour qualification points at one of the most powerful peaks on the coast.
+- **HIC Haleiwa Pro (WSL QS + Longboard): November 29 - December 7, 2026, Alii Beach Park, Haleiwa.** The most spectator-friendly event of the season — the break is steps from Haleiwa town, so you can watch a heat, grab lunch, and walk back. Don't count on many CT stars, but the QS talent is deep and hungry.
+- **Pipe Masters (WSL Championship Tour finale): December 8-20, 2026, Ehukai Beach Park (Banzai Pipeline).** The main event. After several years of date and name changes, the Pipe Masters is back in its classic December window as the final stop of the 2026 Championship Tour — meaning the world title itself can be decided in the barrel at Pipe. Expect the best surfers on Earth, packed sand, and 15-to-25-foot gaping barrels exploding onto a super-shallow reef a stone's throw from your beach chair.
+- **Rip Curl Eddie Aikau Big Wave Invitational: holding period December 6, 2026 - March 6, 2027, Waimea Bay.** The rarest event in sports — it runs on one day only, and only if Waimea Bay sustains 40-foot faces. Full details in the next section. Note: if the Eddie is called ON, it takes priority over every other contest.
+- **Haleiwa International Open: December 22, 2026 - January 3, 2027, Haleiwa.** A beloved amateur event that keeps the town buzzing through the holidays.
+- **Da Hui Backdoor Shootout: January 4-16, 2027, Ehukai Beach Park.** The most "core" contest on the coast: invitation-only, jersey-free, held in memory of Duke Kahanamoku, featuring Hawaii's best Pipe specialists — names like Jamie O'Brien, the Florence brothers, and Mason Ho — on the best three to four days of the window.
+- **WSL Championship Tour season openers: Pipeline January 29 - February 8, 2027, and Sunset Beach February 9-18, 2027 (permitted windows).** The 2027 CT season opens right back on the North Shore, so the big names stick around all winter.
+
+One correction worth making: the famous Vans Triple Crown of Surfing — the three-event in-person series that ran every November-December for decades — ended its live run in 2019. Since 2020 it has existed as a digital, video-submission competition. Plenty of outdated articles still promise the old in-person series; don't plan around them.
+
+How do you know if a contest is actually running today? Check the event's official site or social accounts that morning — the WSL posts daily calls for its events, the Eddie Aikau Foundation announces the Eddie's status, and results platforms like LiveHeats show live heats. Local surf schools and shops (and their Instagram stories) are reliable same-day sources too.`,
+      `**The Eddie: Surfing's Rarest and Greatest Contest**
+
+Even among big-wave events, one stands alone. The Eddie Aikau Big Wave Invitational honors the North Shore's first lifeguard — a Waimea Bay legend credited with more than 500 rescues in surf nobody else would enter, who was lost at sea in 1978 paddling for help when the voyaging canoe Hokulea capsized. His phrase — "Eddie Would Go" — is painted on bumpers and buildings all over Hawaii.
+
+The contest, created in 1984 and held at Waimea Bay since its earliest years, has the simplest and harshest rule in sports: it only runs if the waves at Waimea Bay hold a sustained 40-foot faces (that's 20 feet in Hawaiian scale, measured from the back of the wave). Since 1984 the ocean has cooperated just 11 times in 41 years. The most recent running was December 22, 2024, won by Landon McNamara; lifeguard Luke Shepardson famously won in 2023 between shifts. The 2025-26 holding period closed on March 6, 2026 without a single qualifying day.
+
+Here's how it works when the Bay does call the day: 32 invitees and 28 alternates — chosen by peer vote and blessed at an opening ceremony at Waimea Bay in early December — carry their phones all winter. When a monster swell appears on the models, organizers poll conditions, and if it's a go, surfers have 12 hours to get to Waimea from anywhere on Earth. The contest runs 8 AM to 5 PM in two rounds of heats. When it's on, up to 50,000 spectators descend on one two-lane road. If you're on Oahu when the call comes: go before dawn, expect to park far away and walk, bring everything you need (porta-potties appear, but food lines are brutal and cell service collapses), and prepare for the single greatest day of spectating in sports. The 2026-27 holding period runs December 6, 2026 through March 6, 2027 — follow the Eddie Aikau Foundation for status updates.`,
+      `**The 4 Best Places to Watch Big Waves on the North Shore**
+
+Watching is free at every break on the coast — you just need to know where to park and where to sit. From west to east:
+
+**1. Ehukai Beach Park (Banzai Pipeline / Backdoor).** The greatest surf-watching seat on the planet. Pipeline's cavernous barrels form over a shallow lava reef astonishingly close to shore — close enough to hear the lip detonate and feel it in your chest. Set up slightly up-beach (northeast) of the main peak when Pipe's lefts are firing, or down-beach (southwest) when Backdoor's rights are better. Parking is the catch: the beach park lot is tiny, and on contest or big-swell days the shoulder of Kamehameha Highway fills from dawn. Arrive before 8 AM or embrace the walk. Across the highway sits Sunset Beach Elementary — you can't miss it. Pipeline is never a swimming beach; the reef sits in one to two feet of water.
+
+**2. Waimea Bay.** Home of the biggest rideable waves in Hawaii and the natural amphitheater for the Eddie. The bay's deep water lets swells stand up 25 to 40-plus feet, and you watch from a broad crescent of sand with the jump rock and the Waimea Valley cliffs as backdrop. The free beach park lot is decent-sized but fills early on big days; street parking follows. There are restrooms, showers, and lifeguards on duty daily — ask them where it's safe to sit, because on the biggest days the entire beach washes and spectators retreat to the grass. Foodland supermarket is 0.6 miles up the road for supplies. Ignore the jump rock in winter — it belongs to summer.
+
+**3. Sunset Beach (Paumalu).** The widest, most powerful playing field on the coast. Sunset's peaks shift across a huge stretch of reef, which spreads out both the surfers and the spectators — it's your best option when Pipeline is maxed out or mobbed. Watch from anywhere along the beach park; parking is a small lot plus the highway shoulder. The Sunset Pro (November 19-26) is based here, and the February CT window returns as well. Bring binoculars — the outside peaks sit farther out than Pipe's.
+
+**4. Haleiwa Alii Beach Park.** The comfortable choice. The break at Haleiwa produces rippable, contest-quality waves rather than death-defying barrels, but the logistics are unbeatable: a real parking lot, restrooms, and all of Haleiwa town — plate lunches, coffee, Matsumoto's shave ice — a short walk away. The Haleiwa Pro runs here November 29 - December 7, and it's the best spot on the coast for families who want world-class surfing plus an easy day.
+
+Whichever spot you choose, morning is better (glassy conditions), weekdays beat weekends, and a small pair of binoculars plus a camera with real zoom will make your day.`,
+      `**Big-Wave Safety: How to Watch Without Becoming a Statistic**
+
+The same swells that make the North Shore magical injure spectators every single winter — almost always visitors who underestimate how far up the beach the waves can reach. A few non-negotiables:
+
+- **Check the forecast before you go.** The National Weather Service issues high surf advisories and warnings for north-facing shores; Surfline's cams show you the actual breaks live. Know what you're driving into.
+- **Stay off wet sand and wet rocks.** Wet means waves reach there. "Sneaker" or rogue waves arrive in sets far bigger than the average, and they regularly sweep people off sand and rock shelves they assumed were safe. Never turn your back on the ocean.
+- **Give the ocean real estate.** Set up well above the wave-wash line, keep kids within arm's reach, and if the wash is creeping toward your towels, move — don't wait.
+- **Don't go in. Period.** From November through March, North Shore beaches are spectator beaches. The shore break can slam you in knee-deep water, the currents are ferocious, and Pipeline's reef is never safe to swim over. If you're tempted, remember the local saying: when in doubt, don't go out. Ask a lifeguard before any water contact.
+- **Winter swimming lives elsewhere.** Waikiki, Ala Moana, and the Ko Olina lagoons stay calm all winter — save your ocean time for the south shore.
+- **Protect your stuff and your car.** Park fully off the pavement (parking enforcement is active and ticket-happy), and leave nothing visible inside the car — beach break-ins are a real thing.`,
+      `**Planning Your North Shore Surf Day: Traffic, Food & What to Bring**
+
+The North Shore is about 35 miles from Waikiki — roughly an hour's drive via the H-1 to the H-2, then Kamehameha Highway (Routes 99/83) through Wahiawa to Haleiwa. Kamehameha Highway is one lane each way along the coast, and on big-swell or contest days it turns into a slow-motion parking lot. The strategy: leave Waikiki by 7:30-8:00 AM, watch the morning glass, and either head back after lunch (against traffic) or stay through the afternoon glow. Weekdays are dramatically easier than weekends.
+
+No car? TheBus Route 60 runs from Ala Moana Center through Kaneohe and up to the North Shore — it's a long, scenic ride (plan on two hours), but a HOLO card makes it the cheapest surf trip on the island and drops you walking distance from Haleiwa and Waimea Bay.
+
+What to bring:
+
+- Beach chairs or a blanket, plus an umbrella — shade is scarce and the winter sun still burns.
+- Water and snacks. Waimea has nothing on-site (Foodland is 0.6 miles up the hill), and the famous North Shore food truck lots at Pupukea — a short drive or long walk from Pipeline — get slammed between noon and 2 PM.
+- Reef-safe sunscreen, a hat, and a light rain jacket; winter squalls pass through fast.
+- Binoculars and a camera with a real zoom lens. Phones can't do 20-foot surf justice from the beach.
+- Cash — several food trucks and fruit stands don't take cards.
+
+Make a day of it: watch the morning surf, grab lunch in Haleiwa town, walk the Waimea Valley botanical gardens to the waterfall (open daily, admission charged), and finish with sunset at Sunset Beach — the name is not a coincidence. From December through March, keep scanning the horizon between sets: humpback whales spout and breach offshore all winter, and the North Shore gets regular fly-bys.`,
+      `**North Shore Surf Season FAQ**
+
+**When is big wave season on the North Shore of Oahu?** November through February, with the biggest and most consistent surf in December and January. The same beaches are typically calm and swimmable from May through September.
+
+**Can you watch the Pipe Masters for free?** Yes. Every North Shore contest is free to watch from the beach. The Pipe Masters runs December 8-20, 2026 at Ehukai Beach Park — arrive before 8 AM for parking on the best days.
+
+**Will the Eddie Aikau contest run in 2026-27?** Nobody knows — that's the magic. The holding period runs December 6, 2026 through March 6, 2027, and the contest only runs on a single day when Waimea Bay sustains 40-foot faces. It has run just 11 times since 1984; it did not run in 2025-26. Follow the Eddie Aikau Foundation for announcements.
+
+**Can beginners surf the North Shore in winter?** No. Winter North Shore surf is for experts only — even small days have powerful currents and shore break. Take your lesson in Waikiki, where gentle waves run all winter, and come back to the North Shore in summer for beginner-friendly conditions.
+
+**Is it safe to swim at North Shore beaches in winter?** Generally no. High surf, vicious shore break, and strong currents make November-through-March swimming dangerous at exposed beaches like Pipeline, Sunset, and Waimea. Always ask the lifeguard first, and default to watching from the sand.
+
+**What is the single best place to watch big waves?** Ehukai Beach Park (Banzai Pipeline) — the wave breaks closest to shore there, and it's the venue for the Pipe Masters. Waimea Bay is the better choice on the very biggest days and the only place to watch the Eddie.
+
+**How do I know if a surf contest is running today?** Contests pick only the best 3-4 days within their permitted windows. Check the WSL website or app for its events, the Eddie Aikau Foundation for the Eddie, and LiveHeats or event social media for the rest — all post a daily ON/OFF call each morning.`,
+      `**Sources:**
+• GoHawaii (Hawaii Tourism Authority) — Waimea Bay & North Shore Surfing (gohawaii.com)
+• World Surf League — Championship Tour Events & Daily Calls (worldsurfleague.com)
+• The Eddie Aikau Foundation — Big Wave Invitational Status & History (eddieaikaufoundation.org)
+• National Weather Service Honolulu — Surf Forecasts & High Surf Advisories (weather.gov)
+• Surfline — North Shore Surf Forecasts & Live Cams (surfline.com)
+• City & County of Honolulu — Ocean Safety & Lifeguard Services (honolulu.gov)
+• Surf Museum Hawaii — 2026-27 Hawaii Surf Contest Permit Schedule (surfmuseumhawaii.com)`,
+    ],
+  },
 ];
 
 export const featuredBlogIds = [
+  "north-shore-surf-season-guide",
   "whale-watching-oahu-guide",
   "oahu-camping-guide",
   "october-hawaii-guide",
-  "best-sea-turtle-spots-hawaii",
 ];
 
 // Future blog schedule (2 per month, 1st and 15th)
@@ -1795,4 +1907,5 @@ export const futureBlogSchedule = [
   { date: "January 1, 2027", topic: "Manta Ray Night Snorkel: Big Island Guide" },
   { date: "February 1, 2027", topic: "Best Winter Hikes on Oahu" },
   { date: "March 1, 2027", topic: "Spring Break in Hawaii: Best Beaches & Hikes" },
+  { date: "March 15, 2027", topic: "Best Tide Pools on Oahu" },
 ];
