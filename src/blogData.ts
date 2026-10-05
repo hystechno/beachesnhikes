@@ -1888,13 +1888,125 @@ Make a day of it: watch the morning surf, grab lunch in Haleiwa town, walk the W
 • Surf Museum Hawaii — 2026-27 Hawaii Surf Contest Permit Schedule (surfmuseumhawaii.com)`,
     ],
   },
+  {
+    id: "november-hawaii-guide",
+    title: "November in Hawaii: Weather, Events & Best Things to Do",
+    excerpt: "Is November a good time to visit Hawaii? Yes — warm 78°F water, thin crowds, low prices, and whale season begins. Your complete November guide.",
+    category: "Beaches",
+    author: "Beaches & Hikes",
+    date: "October 5, 2026",
+    readTime: "12 min read",
+    image: "/images/blog/november-hawaii-guide.jpg",
+    tags: ["November in Hawaii", "Hawaii Travel", "Oahu", "Maui", "Kauai", "Big Island", "Thanksgiving", "Kona Coffee", "Shoulder Season"],
+    content: [
+      `Ask a Hawaii regular about November in Hawaii and you'll get a knowing smile: it's the month the islands exhale. The summer rush is long gone, the holiday wave doesn't crest until Christmas, and the ocean is still a warm 78°F. Mornings are made for empty beaches and quiet trails, and by mid-month the calendar fills with some of Hawaii's most beloved events — a ten-day coffee harvest festival in Kona, the first big surf contests on the North Shore, and the season's first humpback whales cruising past the coast.
+
+This complete guide covers everything you need to plan a November trip: what the start of the wet season actually means for your vacation, which beaches and hikes shine this month, the events worth booking around, what Thanksgiving in Hawaii looks like, and how to land some of the year's best travel deals. Whether you're bound for Oahu, Maui, Kauai, or the Big Island, here's how to do November right.`,
+      `**Is November a Good Time to Visit Hawaii? (The Short Answer)**
+
+Yes — November is one of the best-value months of the year to visit Hawaii, as long as you avoid Thanksgiving week. Here's the quick case:
+
+- **Weather:** The wet season (November–March) begins, but "wet" is relative — leeward resort areas like Waikiki, Wailea, Poipu, and Kona stay mostly sunny, with daytime highs of 80–83°F.
+- **Ocean:** Still warm at about 78°F — excellent swimming and snorkeling, especially on south- and west-facing shores.
+- **Crowds:** One of the quietest months of the year — until Thanksgiving week, when the islands fill up fast.
+- **Prices:** Among the lowest of the year for flights and hotels until about November 20; Thanksgiving week can cost nearly double.
+- **Events:** Kona Coffee Cultural Festival (Nov 6–15), the Hawaii Food & Wine Festival's Oahu finale (Nov 5–8), the first North Shore surf contests (from Nov 19), Veterans Day at Pearl Harbor (Nov 11), and the Waikiki Holiday Parade (Nov 27).
+- **Wildlife:** Humpback whale season officially begins — the first arrivals show up in November, months before the January–March peak.
+
+The honest trade-offs: you'll see more rain than summer (mostly overnight and on windward sides), the north shores turn rough as winter surf builds, daylight shrinks to about 11 hours, and hurricane season technically runs through November 30. For most travelers, that's an easy trade for Hawaii at its most affordable.`,
+      `**November Weather: What the Start of the Wet Season Really Means**
+
+November is the first month of Hawaii's wet season, and that phrase scares off more visitors than it should. Here's what it actually looks like on the ground: daytime highs of 80–83°F, overnight lows around 70–73°F, and rain that comes in short bursts — often overnight — rather than day-long washouts. Honolulu averages only about 2 inches of rain for the entire month, spread across roughly a dozen brief showers.
+
+The trick is geography. Every island has a dry leeward (south/west) side and a wet windward (north/east) side, and in November that difference matters more than the calendar:
+
+- **Leeward stays sunny:** Waikiki and Ko Olina (Oahu), Kihei–Wailea (Maui), Poipu (Kauai), and the Kona–Kohala coast (Big Island) see plenty of sun all month. If your trip is about maximizing beach time, base yourself leeward.
+- **Windward gets greener:** Hilo, Hanalei, Hana, and the windward coasts see frequent passing showers — which is exactly why they're so lush. Plan windward excursions for mornings, when skies are usually clearest.
+- **Kauai is the wettest island:** Its north shore can see 10+ inches of November rain. It's still beautiful, but build flexibility into Kauai itineraries and don't bank on a Napali boat tour for any specific day.
+
+One helpful twist for 2026: NOAA's Climate Prediction Center outlook favors below-normal precipitation for Hawaii this November, with a developing El Niño expected to keep the islands drier than average heading into winter, and temperatures running near normal.
+
+Two things to actually plan around:
+
+- **Hurricane season** officially runs through November 30. November storms affecting Hawaii are rare, but check the Central Pacific Hurricane Center forecast before you fly and favor refundable bookings.
+- **Box jellyfish** can drift onto Oahu's south-facing beaches (Waikiki, Ala Moana, Hanauma Bay) 8–12 days after the full moon — in November 2026, that's roughly November 3–7. Heed posted signs and lifeguard warnings those days.
+
+Daylight: sunrise is around 6:30 AM, and sunset slides from about 5:55 PM early in the month to roughly 5:47 PM by November 30. Book sunset sails and beach dinners on the early side.`,
+      `**November Events: Coffee, Surf, Food & the First Whales**
+
+**Kona Coffee Cultural Festival — November 6–15, 2026 (Kailua-Kona, Big Island).** Hawaii's oldest food festival turns 55 with ten days of farm tours, cupping competitions, and community events across the Kona coffee belt — timed to harvest season, so you'll see picking and processing in full swing. A $10 festival button covers most events. Highlights: the Lantern Parade down Alii Drive (Fri Nov 6, 6 PM), the Holualoa Village Coffee & Art Stroll through the galleries of the artists' village (Sat Nov 7), the Kona Coffee Half Marathon (Sat Nov 14, 6 AM start), and the ho'olaule'a celebration at Hale Halawai that evening. Working farms like Greenwell, Hala Tree, and UCC Hawaii run tours all week. Book Kona lodging early for festival week.
+
+**Hawaii Food & Wine Festival: Oahu Finale — November 5–8, 2026.** The three-island festival co-founded by chefs Roy Yamaguchi and Alan Wong wraps up on Oahu with its biggest weekend of tastings and chef collaborations. Events are 21+, sell out, and lean pricey — but for food lovers it's the culinary event of the Hawaii year.
+
+**North Shore surf contests begin.** Winter's first major events fire up on Oahu's North Shore: the Sunset Pro at Sunset Beach (Nov 19–26) and the HIC Haleiwa Pro at Alii Beach Park (Nov 29–Dec 7) both draw top local and international surfers. Watching is free from the sand. See our North Shore surf season guide for the full contest calendar, best viewing beaches, and parking tips.
+
+**Whale season begins.** Humpback whales start arriving in Hawaiian waters in November after their 3,000-mile migration from Alaska. Sightings are hit-or-miss this early — most tour boats don't guarantee them until mid-December — but keep your eyes on the horizon from any west-facing beach, especially along Maui's Kaanapali coast and from lookouts like Makapuu Point on Oahu. Our whale watching guide covers the best tours and shore spots for peak season.
+
+**Veterans Day — November 11 (statewide).** Ceremonies at Pearl Harbor and Punchbowl (the National Memorial Cemetery of the Pacific) honor veterans; it's a moving, uncrowded day to visit the Pearl Harbor National Memorial (free; USS Arizona Memorial program tickets are $1 via recreation.gov).
+
+**Thanksgiving — Thursday, November 26, 2026.** Hawaii's version: turkey with a side of poke, sunset on the beach, and resort luaus with special holiday spreads. Most hotel restaurants run Thanksgiving buffets — book them weeks ahead — and island grocery stores do a brisk business in pre-ordered imu-cooked turkeys. The next morning, the Waikiki Holiday Parade (Fri Nov 27, 9 AM, Kalakaua Avenue) marches bands and floats down Waikiki's main strip in commemoration of Pearl Harbor — a free, genuinely local way to open the holiday season. Looking further out: Honolulu City Lights opens December 5 and the Honolulu Marathon runs December 13, both worth building an early-December trip around.`,
+      `**Best Beaches in November, Island by Island**
+
+The November rule: leeward is for swimming, north shores are for watching. South- and west-facing beaches stay calm and swimmable, while the north shores build toward their famous winter surf. Early November often keeps a few calm North Shore days in the mix; by Thanksgiving, treat those beaches as spectator sport.
+
+- **Oahu:** Waikiki stays gentle and swimmable all month — a great time for a surf lesson on its beginner rollers. Lanikai and Kailua deliver calm turquoise mornings on the windward side (go before the trade winds pick up). Hanauma Bay (timed reservations, $25 entry, closed Mon–Tue) has excellent snorkeling most November days. On the North Shore, Waimea and Sunset may still be swimmable early in the month — always ask the lifeguard first.
+- **Maui:** The Wailea–Makena string and Kaanapali stay sunny with glassy mornings, and snorkel boats to Molokini and Turtle Town run all month in typically good conditions. Kapalua Bay on the northwest tip can stay calm early in November but gets increasingly wave-washed as swells arrive.
+- **Kauai:** Poipu Beach is the reliable daily choice — lifeguarded, family-friendly, and a favorite basking spot for honu (Hawaiian green sea turtles). Salt Pond Beach Park near Hanapepe is the locals' calm-water fallback. Hanalei Bay transitions to surf season; admire it from the pier rather than swimming most days.
+- **Big Island:** The Kona and Kohala coasts are at their best — Hapuna, Kaunaoa (Mauna Kea Beach), and Kua Bay offer clear, calm water, and Kona's manta ray night snorkel runs year-round. Two Step at Honaunau Bay, next to Puuhonua o Honaunau National Historical Park, has some of the state's best shore snorkeling.
+
+Two November ocean notes: check the lifeguard flags and daily surf report before entering the water on any north- or west-facing beach — the season's first big swells can arrive with little warning — and remember the box jellyfish window (roughly Nov 3–7) on Oahu's south shore.`,
+      `**Hiking in November: Green Valleys and Empty Trails**
+
+November is an underrated hiking month: crowds are thin, waterfalls start flowing again after the dry summer, and mornings are cool. The flip side is mud and flash-flood risk after heavy rain — check DLNR trail closures before you go, avoid stream crossings during or after rain, and start early to beat afternoon clouds.
+
+- **Diamond Head (Oahu):** The classic crater hike is pleasant in November's cooler mornings. Non-residents need timed reservations via gostateparks.hawaii.gov ($5 per person plus $10 parking); the 6 AM slot catches sunrise over Waikiki.
+- **Makapuu Point Lighthouse Trail (Oahu):** An easy paved two-mile round trip on the windward side — and the lookout is one of the best shore-based whale-spotting perches in the state once the first humpbacks arrive. Bring binoculars.
+- **Lanikai Pillbox / Kaiwa Ridge (Oahu):** A short, steep climb to WWII bunkers above Lanikai Beach. Do it at sunrise, then cool off in the water below.
+- **Pipiwai Trail (Maui):** The bamboo-forest boardwalk to 400-foot Waimoku Falls in Haleakala National Park's Kipahulu District ($30 per vehicle, good for three days). November rain makes the waterfalls fuller — and the trail muddier. Wear shoes you don't love.
+- **Awaawapuhi Trail (Kauai):** A ridge-line descent to a jaw-dropping Napali Coast overlook in Kokee. Go early — clouds build by late morning — and check DLNR for closures after rain.
+- **Haleakala Sunrise (Maui):** Summit entry between 3 and 7 AM requires a $1 recreation.gov reservation released up to 60 days out. Summit temperatures can drop into the 40s°F — pack a real jacket.
+- **Kilauea Iki (Big Island):** The classic crater-floor loop in Hawaii Volcanoes National Park. Check nps.gov for current volcanic activity and trail status before you go.
+
+November hiking rules: carry at least a liter of water per person, pack a light rain shell, wear real shoes (red mud stains forever), and never cross a flooded stream — flash floods are Hawaii's deadliest trail hazard.`,
+      `**November Costs & Booking: The Year's Best Deals (and One Expensive Week)**
+
+November splits cleanly in two. Before Thanksgiving week it's one of the cheapest times of the year to visit Hawaii; during Thanksgiving week it's one of the most expensive.
+
+- **Early-to-mid November (roughly Nov 1–20):** Shoulder-season pricing across the board — hotel rates run well below the statewide average (which hovers around $345/night for the year), flights dip, and rental cars are actually available. If your dates are flexible, this is the window: arrive by about November 10, leave before November 22, and you'll catch good weather, thin crowds, and real deals.
+- **Thanksgiving week (roughly Nov 21–29):** Hawaii is a top Thanksgiving destination, and prices reflect it — hotel rates can nearly double, and the best resort restaurants and luaus book out months in advance. If Thanksgiving 2026 is your plan, book immediately; if it's already too late, early December (before about December 18) offers a similar quiet-and-festive window before the Christmas rush.
+- **Event weeks:** Kona books up early on the Big Island's west side during the coffee festival (Nov 6–15), and North Shore rentals fill once the surf contests start in late November.
+
+Money-saving November moves: compare condo-style resorts with kitchens (breakfast and lunch in, dinner out), book inter-island flights three-plus weeks ahead for the lowest fares, and look for "fifth night free" shoulder-season promotions many resorts still run in early November.`,
+      `**November in Hawaii FAQ**
+
+**Is November a rainy month in Hawaii?** It's the start of the wet season, but "wet" is relative: Honolulu averages about 2 inches of rain for the whole month, mostly in short overnight or passing showers. Leeward resort areas (Waikiki, Wailea, Poipu, Kona) stay predominantly sunny; windward sides and Kauai see considerably more.
+
+**Can you swim in Hawaii in November?** Yes — the ocean is still about 78°F. South- and west-facing beaches stay calm and swimmable all month. North shores get progressively rougher as winter surf builds, so always check lifeguard warnings before entering the water there.
+
+**Is November crowded in Hawaii?** It's one of the quietest months of the year — until Thanksgiving week (roughly Nov 21–29), when visitor numbers and prices spike. Travel in the first three weeks for empty beaches and easy reservations.
+
+**Is November a good time for whale watching in Hawaii?** Whale season officially begins in November and the first humpbacks arrive then, but sightings are inconsistent until mid-December. Peak whale watching runs January through March.
+
+**Is Thanksgiving a good time to visit Hawaii?** Wonderful — if you book far in advance. Expect warm 80°F days, festive resort dinners and luaus, the Waikiki Holiday Parade the next morning, and the highest prices of the month. Reserve hotels, rental cars, and Thanksgiving dinners as early as possible.
+
+**What should I pack for Hawaii in November?** Reef-safe sunscreen, a hat, a light rain jacket, a light sweater for evenings and air-conditioning, and real hiking shoes if you plan to hit muddy trails. Add a warm layer (fleece or light down) if you're doing Haleakala or Mauna Kea.`,
+      `**Sources:**
+• National Weather Service Honolulu — Hawaii Climate, Surf & Marine Forecasts (weather.gov)
+• NOAA Climate Prediction Center — Seasonal Temperature & Precipitation Outlooks (cpc.ncep.noaa.gov)
+• GoHawaii (Hawaii Tourism Authority) — Islands, Events & Travel Planning (gohawaii.com)
+• Kona Coffee Cultural Festival — 2026 Festival Schedule & Events (konacoffeefest.com)
+• Hawaii Food & Wine Festival — Event Calendar & Tickets (hawaiifoodandwinefestival.com)
+• Hawaii DLNR Division of State Parks — Trail Status, Closures & Park Reservations (dlnr.hawaii.gov)
+• Hawaii DBEDT — Visitor Statistics & Hotel Rate Data (dbedt.hawaii.gov)`,
+    ],
+  },
 ];
 
 export const featuredBlogIds = [
+  "november-hawaii-guide",
   "north-shore-surf-season-guide",
   "whale-watching-oahu-guide",
   "oahu-camping-guide",
-  "october-hawaii-guide",
 ];
 
 // Future blog schedule (2 per month, 1st and 15th)
@@ -1908,4 +2020,5 @@ export const futureBlogSchedule = [
   { date: "February 1, 2027", topic: "Best Winter Hikes on Oahu" },
   { date: "March 1, 2027", topic: "Spring Break in Hawaii: Best Beaches & Hikes" },
   { date: "March 15, 2027", topic: "Best Tide Pools on Oahu" },
+  { date: "April 1, 2027", topic: "Kauai's Best Beginner Hikes" },
 ];
