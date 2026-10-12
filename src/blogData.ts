@@ -2000,13 +2000,114 @@ Money-saving November moves: compare condo-style resorts with kitchens (breakfas
 • Hawaii DBEDT — Visitor Statistics & Hotel Rate Data (dbedt.hawaii.gov)`,
     ],
   },
+  {
+    id: "maui-vs-oahu",
+    title: "Maui vs Oahu: Which Hawaiian Island Should You Visit?",
+    excerpt: "Maui vs Oahu — which island should you visit? An honest comparison of beaches, hiking, snorkeling, costs, and crowds to help you pick the right one.",
+    category: "Beaches",
+    author: "Beaches & Hikes",
+    date: "October 12, 2026",
+    readTime: "12 min read",
+    image: "/images/blog/maui-vs-oahu.jpg",
+    tags: ["Maui vs Oahu", "Maui", "Oahu", "Hawaii Travel", "Beaches", "Hiking", "Snorkeling", "Hawaii Vacation Planning"],
+    content: [
+      `It's the first big decision of every Hawaii trip, and the question travelers ask more than any other: Maui vs Oahu — which island should you visit? Pick right and the whole vacation clicks into place; pick wrong and you spend a week wishing you'd booked differently. The honest truth is that both islands are spectacular — but they're spectacular in very different ways, for very different travelers.
+
+Oahu is the Gathering Place: nearly a million residents, the state capital, world-famous Waikiki, Pearl Harbor, and the legendary North Shore surf. Maui is the Valley Isle: slower, greener, resort-polished, with the state's best snorkeling, its most scenic drive, and the densest humpback whale population in Hawaii all winter. This head-to-head comparison breaks down beaches, hiking, ocean life, costs, crowds, and vibe — with real prices and reservation details — so you can book with confidence. (And if you still can't decide, there's a two-island answer at the end.)`,
+      `**Maui vs Oahu: The Short Answer**
+
+Choose **Oahu** if it's your first Hawaii trip, you're watching the budget, you want nightlife and dining variety, you're traveling with kids who need constant entertainment, or you dream of watching — or learning — surf. Oahu runs roughly 30% cheaper than Maui, has the most flight options, and packs more famous attractions per square mile than anywhere in the islands.
+
+Choose **Maui** if you want a slower, more romantic resort vacation, world-class snorkeling at Molokini, the Road to Hana, Haleakala sunrise, or the best whale watching in Hawaii from December through April. Maui trades city energy for scenery and quiet — and charges about 30% more for it.
+
+Still torn? Here's the cheat sheet:
+
+- **Best beaches:** Maui, by a nose
+- **Best hiking:** Tie — different flavors
+- **Best snorkeling:** Maui (Molokini is untouchable)
+- **Best whale watching:** Maui, December–April
+- **Best surf:** Oahu (North Shore in winter, Waikiki for beginners)
+- **Best food & nightlife:** Oahu, easily
+- **Best for families:** Oahu (more to do, cheaper)
+- **Best for couples & honeymoons:** Maui
+- **Best budget pick:** Oahu
+- **Best luxury pick:** Maui (Wailea)
+- **Easiest logistics:** Oahu — you can do Waikiki without a rental car
+
+One thing both islands share: you cannot see the real version of either in less than four full days. If you have a week or more, the 40-minute inter-island flight makes a split stay genuinely easy.`,
+      `**Beaches: Maui's Variety vs Oahu's Icons**
+
+Maui wins on sheer beach quality per mile. The island has 30-plus miles of accessible beaches, and an unusual number look straight off a postcard: Kaanapali's three-mile golden arc with its daily cliff-diving ceremony at Black Rock, the manicured Wailea–Makena string fronting the luxury resorts, calm and family-perfect Napili and Kapalua bays, and the famous black sand beach at Waianapanapa State Park on the Road to Hana (reservations required: $5 per person plus $10 per vehicle via gostateparks.hawaii.gov). Makena's Big Beach is Hawaiian bodysurfing at its prettiest — non-residents pay $5 entry plus $10 parking. For turtles, Hookipa Beach on Maui's north shore hosts basking honu nearly every afternoon.
+
+Oahu counters with quantity and fame: more than 125 named beaches, headlined by Waikiki — two miles of gentle, beginner-friendly surf with Diamond Head as the backdrop — plus the windward twins Lanikai and Kailua, which regularly top "best beach in America" lists for powder sand and unreal turquoise water. The North Shore (Waimea, Sunset, Pipeline) is the most famous stretch of surf coastline on Earth from November through February — and those same beaches go calm and swimmable in summer. On the leeward side, Ko Olina's four protected lagoons offer the calmest swimming on either island for small kids.
+
+Verdict: if your perfect day is a quiet, gorgeous beach with a book, pick Maui. If you want iconic beach scenes, learn-to-surf waves, and a beach bar within walking distance, pick Oahu.`,
+      `**Hiking & Outdoor Adventure**
+
+Oahu's hiking is accessible and crowd-pleasing. Diamond Head is the classic: a 1.6-mile round trip inside a volcanic crater to a Waikiki panorama ($5 per person plus $10 parking; timed reservations required for non-residents at gostateparks.hawaii.gov — book the 6 AM slot). The Lanikai Pillbox trail serves up the state's most famous sunrise view for under a mile of climbing, Manoa Falls delivers a 150-foot waterfall through jungle, and the paved Makapuu Point trail doubles as a winter whale lookout. Hardcore hikers get the spiney Koolau ridges.
+
+Maui's hiking is wilder and more varied. Haleakala National Park is the star: a 10,023-foot shield volcano where sunrise above the clouds is a genuine once-in-a-lifetime scene — you'll need the $1-per-vehicle recreation.gov reservation (released up to 60 days out) for 3–7 AM summit entry, plus the $30 park pass, and a real jacket for 40°F dawn temps. In the park's Kipahulu District, the Pipiwai Trail boards through a bamboo forest to 400-foot Waimoku Falls — many hikers' single favorite trail in the state. Iao Valley State Monument offers an easy 0.6-mile paved loop to the Iao Needle viewpoint ($5 per person plus $10 parking, 90-minute reserved slots, open 7 AM–6 PM), and the Kapalua Coastal Trail and Waihee Ridge round out west Maui options.
+
+Verdict: Oahu for easy, iconic, do-three-before-lunch hikes; Maui for bigger, more dramatic days out.`,
+      `**Snorkeling, Whales & Ocean Life**
+
+This category decides a lot of trips, so let's be direct.
+
+**Snorkeling — Maui wins.** Molokini Crater, a half-sunken volcanic crescent three miles off Maui's south shore, is a protected Marine Life Conservation District with up to 150 feet of visibility and 250-plus fish species. It's boat-access only: morning catamaran tours run about $130–$250 per adult (depart 6:00–7:45 AM for glassy water and the best visibility), while cheaper afternoon trips ($95–$140) often divert to nearshore reefs when the trade winds pick up. Add shore snorkeling at Kapalua, Napili, Honolua in summer, and the Turtle Town reefs off Makena, and Maui is the best snorkel island for most visitors. Oahu's answer is Hanauma Bay — a spectacular crater preserve with $25 entry, 48-hour reservations, and Monday–Tuesday closures — plus summer-only North Shore gems like Shark's Cove. Excellent, but Molokini is untouchable.
+
+**Whale watching — Maui wins big.** Every December through April (peak January–March), thousands of humpbacks crowd the shallow, protected Auau Channel between Maui, Lanai, and Kahoolawe — the densest winter whale concentration in the state. You can watch breaches from a Kaanapali hotel lanai, and raft tours out of Lahaina and Maalaea get you thrillingly close. Oahu has whale tours too — our whale watching guide covers them — but Maui is the whale capital of Hawaii.
+
+**Surf — Oahu wins.** Winter on Oahu's North Shore is the center of the surfing universe (our North Shore surf season guide has the contest calendar and best viewing beaches), and Waikiki remains the world's most forgiving place to learn. Maui has fun breaks — and the tow-in monster known as Jaws — but for 99% of travelers, surfing means Oahu.
+
+**Sea turtles — tie.** You'll see honu basking on the sand at Hookipa (Maui) and Laniakea (Oahu), and in the water at Turtle Town (Maui) and Electric Beach (Oahu). Wherever you encounter them, stay at least 10 feet away — Hawaiian green sea turtles are federally protected.`,
+      `**Costs & Crowds: Oahu Is Roughly 30% Cheaper**
+
+Let's talk money, because the gap is real. Hawaii DBEDT data shows 2026 visitors spending an average of $340 per person per day on Maui versus $254 on Oahu — a 34% difference that tracks with hotel rates: Maui hotels averaged about $579 a night in July 2026 while Oahu averaged roughly $307, against a statewide average near $370. Per person per trip, DBEDT puts Oahu around $1,636 and Maui around $2,262. The pattern holds for rental cars, resort dining, and activities.
+
+Why: Maui's lodging skews toward luxury resorts (Wailea, Kaanapali, Kapalua) with resort fees to match, while Oahu offers everything from $150 Waikiki boutiques to hostels — plus the state's only real public transit (TheBus) if you want to skip a rental car entirely. On Maui, a rental car is essentially mandatory: the resort areas sit 30–45 minutes from Kahului Airport, and the island's best sights are spread out.
+
+Crowds run opposite to what first-timers expect. Oahu hosts roughly twice as many visitors as Maui (about 450,000 versus 231,000 arrivals in a recent month), but most compress into Waikiki — which means the rest of Oahu can feel surprisingly empty while Maui's two resort strips feel busy. On Oahu, escape the crowd with a 30-minute drive to the windward side or North Shore; on Maui, the "crowd" is mostly your own resort.
+
+Both islands require advance planning for the big-ticket sights: Haleakala sunrise, Waianapanapa, Iao Valley, and Makena on Maui; Diamond Head, Hanauma Bay, and the USS Arizona Memorial ($1 recreation.gov tickets) on Oahu. Book them all weeks ahead.`,
+      `**Vibe, Nightlife & Getting Around**
+
+Oahu feels like a real city dropped into paradise — because it is one. Honolulu has chef-driven restaurants, food trucks, museums (Bishop Museum, Iolani Palace), Pearl Harbor, shopping, and the only true nightlife in Hawaii: Waikiki's bars, live music, and late-night eats. It's the easier island logistically: the most direct flights from the mainland, a walkable Waikiki, rideshares everywhere, and most famous sights within an hour's drive.
+
+Maui feels like vacation the minute you land. There's no city — Kahului is a working town — and nights end early. Evenings are sunset mai tais, a luau, maybe live music at a resort bar. What Maui lacks in nightlife it pays back in scenery: the Road to Hana's 52 miles and 600-plus curves (start before 7 AM, or take a $210–$250 guided tour and skip the driving), Upcountry farms and gardens, and Haleakala looming over everything.
+
+First-timer shortcut: if your group wants options — different restaurants every night, shopping, history, surf lessons, easy hikes — Oahu keeps everyone happiest. If the goal is to slow down, reconnect, and stare at the water, Maui is the move.
+
+**Can't decide? Do both.** Inter-island flights between Honolulu (HNL) and Kahului (OGG) take about 40 minutes and run all day. A classic split is 3–4 nights on Oahu (Waikiki, Pearl Harbor, a North Shore day) plus 4–5 on Maui (beach days, Haleakala, Road to Hana, Molokini). Book the inter-island leg three-plus weeks out for the lowest fares, and fly mid-morning so hotel check-out and check-in line up.`,
+      `**Maui vs Oahu FAQ**
+
+**Is Maui or Oahu better for a first trip to Hawaii?** Oahu for most first-timers: it's cheaper, easier (you can skip the rental car in Waikiki), and packs the most iconic sights — Pearl Harbor, Diamond Head, Waikiki, the North Shore. Choose Maui first only if your priority is a quiet resort-and-scenery trip.
+
+**Is Maui really more expensive than Oahu?** Yes — about 30–34% more. Hawaii DBEDT's 2026 data shows Maui visitors spending $340 per person per day versus $254 on Oahu, with Maui hotel rates roughly double Oahu's ($579 versus $307 per night in July 2026). Budget travelers should pick Oahu; luxury travelers often prefer Maui anyway.
+
+**Which island has better beaches, Maui or Oahu?** Maui, slightly — Kaanapali, Wailea, Napili, and Kapalua are hard to beat, plus the black sand beach at Waianapanapa. Oahu wins for surf beaches (Waikiki for learning, the North Shore for watching) and the windward beauties Lanikai and Kailua.
+
+**Which island is better for whale watching?** Maui, decisively. December through April, the Auau Channel off West Maui hosts the densest humpback population in Hawaii — often visible right from shore. Peak season is January through March.
+
+**Can you visit both islands in one trip?** Absolutely, and it's the best answer for trips of seven days or more. Inter-island flights take about 40 minutes between HNL and OGG. Split 3–4 nights on Oahu and 4–5 on Maui rather than attempting a day trip.
+
+**Which island is better for kids?** Oahu — more free and low-cost activities, calm lagoons at Ko Olina and Waikiki, the zoo, aquarium, and Bishop Museum, plus shorter drives. Maui works well for water-confident kids (snorkeling, tide pools) but requires more driving and a bigger budget.`,
+      `**Sources:**
+• Hawaii DBEDT — Visitor Spending, Arrivals & Hotel Performance Reports (dbedt.hawaii.gov)
+• GoHawaii (Hawaii Tourism Authority) — Oahu & Maui Island Guides (gohawaii.com)
+• Hawaii DLNR Division of State Parks — Iao Valley, Waianapanapa & Makena Park Details (dlnr.hawaii.gov)
+• Hawaii State Parks Reservations — Entry & Parking Bookings (gostateparks.hawaii.gov)
+• National Park Service — Haleakala National Park Fees & Sunrise Reservations (nps.gov)
+• NOAA Hawaiian Islands Humpback Whale National Marine Sanctuary — Whale Season & Auau Channel (hawaiihumpbackwhale.noaa.gov)
+• Molokini Crater Marine Life Conservation District — Snorkel Access & Conditions (molokini-crater.org)`,
+    ],
+  },
 ];
 
 export const featuredBlogIds = [
+  "maui-vs-oahu",
   "november-hawaii-guide",
   "north-shore-surf-season-guide",
   "whale-watching-oahu-guide",
-  "oahu-camping-guide",
 ];
 
 // Future blog schedule (2 per month, 1st and 15th)
@@ -2021,4 +2122,5 @@ export const futureBlogSchedule = [
   { date: "March 1, 2027", topic: "Spring Break in Hawaii: Best Beaches & Hikes" },
   { date: "March 15, 2027", topic: "Best Tide Pools on Oahu" },
   { date: "April 1, 2027", topic: "Kauai's Best Beginner Hikes" },
+  { date: "April 15, 2027", topic: "Na Pali Coast: Boat Tour vs Kalalau Trail vs Helicopter" },
 ];
