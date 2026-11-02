@@ -2101,13 +2101,116 @@ First-timer shortcut: if your group wants options — different restaurants ever
 • Molokini Crater Marine Life Conservation District — Snorkel Access & Conditions (molokini-crater.org)`,
     ],
   },
+  {
+    id: "oahu-holiday-events",
+    title: "Oahu Holiday Events 2026: Lights, Parades & Fireworks",
+    excerpt: "The best Oahu holiday events for 2026: Honolulu City Lights, Waikiki Holiday Parade, Pearl Harbor 85th, Pipe Masters & New Year's fireworks.",
+    category: "Beaches",
+    author: "Beaches & Hikes",
+    date: "November 2, 2026",
+    readTime: "12 min read",
+    image: "/images/blog/oahu-holiday-events.jpg",
+    tags: ["Oahu Holiday Events", "Honolulu City Lights", "Waikiki", "Pearl Harbor", "Christmas in Hawaii", "New Year's Eve", "Oahu Events", "December"],
+    content: [
+      `Mele Kalikimaka from the land of palm trees and trade winds! Spending the holidays on Oahu means trading snow boots for slippahs — and discovering that the island does the season in a big, distinctly Hawaiian way. Oahu holiday events run from the day after Thanksgiving straight through New Year's Day: torch-lit parades down Waikiki's main street, a 50-foot Christmas tree in front of City Hall, surfing's most prestigious contest on the North Shore, the country's most moving memorial ceremony on its 85th anniversary, and midnight fireworks over the Pacific to close it all out.
+
+This guide covers every major Oahu holiday event for 2026 with the dates, times, costs, and local know-how you need — whether you're planning a full Christmas vacation or just catching the season's highlights between beach days.`,
+      `**Oahu Holiday Events 2026: The Big Dates at a Glance**
+
+- **Friday, November 27:** Waikiki Holiday Parade — torch-lit evening march down Kalakaua Avenue honoring Pearl Harbor survivors and veterans (free)
+- **Saturday, December 5:** Honolulu City Lights opening night — tree lighting, Electric Light Parade, and block party at Honolulu Hale (free); displays continue daily through December
+- **Monday, December 7:** National Pearl Harbor Remembrance Day — 85th anniversary ceremony at 7:30 AM (free, open to the public)
+- **December 8–20:** Pipe Masters at Ehukai Beach Park — the world's most famous surf contest (free to watch)
+- **Sunday, December 13:** Honolulu Marathon — 26.2 miles from downtown to Kapiolani Park
+- **Friday, December 25:** Christmas Day — beach picnics, resort dinners, and (almost) everything stays open
+- **Thursday, December 31:** New Year's Eve — midnight fireworks off Waikiki Beach, plus parties and cruises
+
+Weather note for planning: December on Oahu means highs around 80°F, evenings in the upper 60s, passing showers (pack a light rain layer), ocean temperatures near 77°F, and sunset around 5:50 PM — which makes those light displays an early-evening activity, not a late-night one. The first humpback whales of the season are cruising offshore all month, too.`,
+      `**Waikiki Holiday Parade — Friday, November 27, 2026**
+
+The season kicks off the evening after Thanksgiving with one of Waikiki's best-kept secrets: a torch-lit parade down Kalakaua Avenue, held every year on the Friday after Thanksgiving to commemorate the anniversary of the attack on Pearl Harbor. Local Hawaiian bands, mainland marching bands (many in town for Pearl Harbor events), military units, and dignitaries march the beachfront strip as tiki torches flicker along the sidewalks.
+
+- **When:** Friday, November 27, 2026, stepping off in the evening (typically around 7 PM)
+- **Where:** Kalakaua Avenue along Waikiki Beach — stake out a curb spot near the Duke Kahanamoku statue or anywhere on the makai (ocean) side of the avenue
+- **Cost:** Free
+- **Getting there:** Walk from any Waikiki hotel. Driving in? Park at the Honolulu Zoo or Ala Wai lots before 6 PM and expect slow traffic afterward.
+
+Insider tip: grab a plate dinner from a Waikiki spot beforehand and eat on the beach wall while you wait — the parade has a relaxed, small-town feel that surprises visitors expecting a slick production.`,
+      `**Honolulu City Lights — Opens Saturday, December 5, 2026**
+
+Honolulu City Lights is the state's biggest holiday celebration, a downtown tradition since the 1980s centered on Honolulu Hale (City Hall). Opening night — Saturday, December 5, 2026 — packs the whole thing into one evening: a block party from 4 PM, the lighting ceremony at 5:30 PM, the 50-foot city tree blazing to life around 6 PM, and the beloved Public Workers' Electric Light Parade rolling down King Street from River Street to Kawaiahao Street (step-off about 6 PM; first units reach Honolulu Hale around 6:30 PM). City trucks, buses, and heavy equipment wrapped in lights by the crews who drive them — kids go feral for it.
+
+- **Cost:** Free, presented by the Friends of Honolulu City Lights and the City and County of Honolulu
+- **After opening night:** The Frank F. Fasi Civic Center grounds stay open daily 8 AM–10 PM through December — see the 21-foot Shaka Santa and Tutu Mele statues at the fountain, the courtyard trees, and the wreath displays inside Honolulu Hale. Weeknights are far quieter than opening night.
+- **Food:** Vendors on Punchbowl Street until 10 PM on opening night, then evenings 6–9 PM through December 30.
+- **Parking:** Free public parking at the Fasi Municipal lot (enter from Beretania Street just past Alapai Street). TheBus connects Waikiki and downtown — check thebus.org.
+- **Photos:** Free Santa photos at the Mission Memorial Auditorium on opening night.
+
+Local's move: pair the lights with dinner in Chinatown or downtown a few blocks away, and catch sunset (about 5:50 PM) on the water first.`,
+      `**Pearl Harbor 85th Commemoration — Monday, December 7, 2026**
+
+December 7, 2026 marks 85 years since the attack on Pearl Harbor, and the National Pearl Harbor Remembrance Ceremony — themed "Courage of Commitment" — begins at 7:30 AM at the Pearl Harbor National Memorial. It's open to the public with no ticket required: visitor center gates open at 6:15 AM, public seating is first come, first served behind reserved sections, and the ceremony pauses at 7:55 AM — the minute the attack began in 1941 — to honor the 2,403 Americans killed that morning, 1,177 of them aboard the USS Arizona.
+
+Visiting logistics for December 7:
+
+- **Parking is free** that day (normally $7), and bag storage is free until 10 AM — but note that bags of any kind (purses, backpacks, camera cases) are never allowed inside the memorial sites.
+- **USS Arizona Memorial boats** run first come, first served from noon to 3:30 PM only — no advance recreation.gov reservations are released for December 7. If you want a normal Pearl Harbor touring day, pick any other date.
+- **Related ceremonies:** USS Utah (Dec 6, 4:30 PM) and USS Oklahoma (Dec 7, 1 PM) sit on restricted Ford Island and require military or government ID; the Blackened Canteen Ceremony (Dec 8) is invitation-only.
+- **Dress and tone:** neat-casual clothing, a light rain shell, phones pocketed during the program. This is a remembrance, not an attraction — and one of the most moving mornings you can spend in Hawaii.
+
+For visits the rest of the week, USS Arizona program tickets stay free with a $1 recreation.gov reservation, released eight weeks ahead at 3 PM HST (anniversary week sells out early).`,
+      `**December Surf & the Honolulu Marathon**
+
+December on Oahu's North Shore is the World Series of surfing. The Pipe Masters runs December 8–20, 2026 at Ehukai Beach Park — the most prestigious contest in the sport, held in barreling waves that break over shallow reef just yards from the sand. Watching is free; arrive before 8 AM on the best days for parking, and check the World Surf League site each morning for the daily ON/OFF call — the contest runs only on the best handful of days in its window.
+
+Also opening December 6: the holding period for the Eddie Aikau Big Wave Invitational at Waimea Bay. The Eddie runs on a single day — only when Waimea Bay sustains 40-foot faces — sometime before the window closes March 6. It has run just 11 times since 1984, so if you hear "The Eddie is ON," drop everything and go (expect gridlock — arrive before dawn). Our North Shore surf season guide has the full winter contest calendar and viewing tips.
+
+**Honolulu Marathon — Sunday, December 13, 2026.** One of the largest marathons in America, famous for having no time limit — walkers and first-timers are as welcome as elites. The course starts on Ala Moana Boulevard downtown at 5 AM (with fireworks!) and finishes 26.2 miles later in Kapiolani Park at the foot of Diamond Head, passing Waikiki, Hawaii Kai, and the Maunalua Bay coastline. Registration fills months ahead, but spectating is free: claim a spot along Kalakaua Avenue with coffee and watch thousands of runners stream past at sunrise. Fair warning for non-runners: road closures snarl Waikiki and east Honolulu traffic until early afternoon.`,
+      `**Christmas Week & New Year's Eve on Oahu**
+
+Christmas Day 2026 falls on a Friday, and Oahu's version is gloriously low-key: morning surf or a beach walk, presents under a palm tree, and a long holiday dinner with an ocean view. Most resort restaurants run special Christmas buffets and prix-fixe menus — book weeks ahead — while island grocery stores sell out of pre-ordered imu-style turkeys. Attractions largely stay open (it's one of the busiest visitor weeks of the year), but confirm holiday hours for anything state-run. For a very Hawaii touch, catch a free holiday hula show at Waikiki's shopping centers, or drive the windward side to see neighborhood light displays in Kailua and Kaneohe. On the west side, Kapolei City Lights runs its own free holiday display through the season.
+
+The neighborhood calendar hums all month, too: nearly every December weekend brings a small-town Christmas parade somewhere on the island — Kaimuki, Kaneohe, Haleiwa, and a dozen more communities each host their own, usually free and wonderfully local. Historic Kawaiahao Church downtown (the "Westminster Abbey of Hawaii") holds beloved Christmas services and concerts in Hawaiian and English; arrive early for a seat. And December is peak craft-fair season, with made-in-Hawaii gift markets running across the island most weekends — ideal for souvenirs that aren't macadamia nuts from the airport.
+
+Christmas Eve services, holiday luaus, and Christmas Day brunch all sell out by mid-December. If your trip includes December 24–26, reserve dinners and luaus the moment your flights are booked.
+
+New Year's Eve (Thursday, December 31) belongs to Waikiki. At the stroke of midnight, a fireworks barge about a mile offshore lights up the whole shoreline — the show is free and visible from anywhere along Waikiki Beach, with a synchronized soundtrack on 105.9 The Wave FM. Claim your patch of sand by 10:30 PM. Other ways to ring it in:
+
+- **Fireworks cruises** from Waikiki or Aloha Tower (roughly $99–$197 per person) put you on the water for unobstructed views
+- **Rooftop and hotel parties** along Kalakaua Avenue with fireworks views (mostly 21+, from about $50)
+- **Family-friendly "Noon Year's Eve"** celebrations — the Hawaii Children's Discovery Center's balloon drop and Mililani's pineapple drop — for keiki who won't make midnight
+
+One local tradition to know: firecrackers. Neighbors set them off across the island all night — it's loud, it's smoky, and it's absolutely normal.`,
+      `**Oahu Holiday Events FAQ**
+
+**Is Oahu a good place to spend the holidays?** Yes — one of the best. You get the full holiday atmosphere (parades, lights, ceremonies) with 80°F beach weather. The trade-off: the two weeks around Christmas and New Year's are among the busiest and most expensive of the year, so book flights, hotels, and rental cars as early as possible. Early December (before about December 18) is the quiet-and-festive sweet spot.
+
+**Are Oahu holiday events free?** Most of the big ones are. The Waikiki Holiday Parade, Honolulu City Lights, the Pearl Harbor ceremony, watching the Pipe Masters, and the New Year's Eve fireworks are all free. Costs come from parking, food, and optional extras like cruises and parties.
+
+**What is the weather like on Oahu in December?** Daytime highs around 80°F, nights in the upper 60s, ocean near 77°F. December sits in the wet season, so expect occasional passing showers — pack a light rain jacket for evening events. Sunset is about 5:50 PM.
+
+**Can you visit Pearl Harbor on December 7?** Yes — the 7:30 AM remembrance ceremony is free and open to the public (gates open 6:15 AM; arrive early). But normal touring is suspended: USS Arizona boats run first come, first served from noon to 3:30 PM only. For a regular visit, go any other day.
+
+**Do I need a car for Oahu holiday events?** Not for the big ones. The Waikiki Holiday Parade and New Year's fireworks are walkable from any Waikiki hotel, and TheBus connects Waikiki to downtown for Honolulu City Lights. You'll want a car (or a tour) for the North Shore surf contests and windward light displays.
+
+**When is the best time to visit Oahu for the holidays on a budget?** Come December 1–18. You'll catch every holiday event except New Year's Eve, with shoulder-season hotel rates and thinner crowds — then fly home before the Christmas-week price spike.`,
+      `**Sources:**
+• Friends of Honolulu City Lights — 2026 Opening Night, Parade & Event FAQ (honolulucitylights.org)
+• Waikiki Holiday Parade — 2026 Date & Parade History (waikikiholidayparade.com)
+• Pearl Harbor 85th Commemoration — Official Ceremony Schedule (pearlharborevents.com)
+• National Park Service — Pearl Harbor National Memorial & USS Arizona Tickets (nps.gov)
+• World Surf League — Pipe Masters Schedule & Daily Calls (worldsurfleague.com)
+• Honolulu Marathon Association — 2026 Race Day Details (honolulumarathon.org)
+• Waikiki Improvement Association — New Year's Eve Fireworks (waikikiimprovement.com)`,
+    ],
+  },
 ];
 
 export const featuredBlogIds = [
+  "oahu-holiday-events",
   "maui-vs-oahu",
   "november-hawaii-guide",
   "north-shore-surf-season-guide",
-  "whale-watching-oahu-guide",
 ];
 
 // Future blog schedule (2 per month, 1st and 15th)
@@ -2115,7 +2218,6 @@ export const futureBlogSchedule = [
   { date: "October 15, 2026", topic: "Best Coffee Shops Near Trails" },
   { date: "November 1, 2026", topic: "Oahu's Best Kept Secret Beaches" },
   { date: "November 15, 2026", topic: "Trail Running on Oahu" },
-  { date: "December 1, 2026", topic: "Holiday Events on Oahu" },
   { date: "December 15, 2026", topic: "New Year's Sunrise Spots" },
   { date: "January 1, 2027", topic: "Manta Ray Night Snorkel: Big Island Guide" },
   { date: "February 1, 2027", topic: "Best Winter Hikes on Oahu" },
@@ -2123,4 +2225,5 @@ export const futureBlogSchedule = [
   { date: "March 15, 2027", topic: "Best Tide Pools on Oahu" },
   { date: "April 1, 2027", topic: "Kauai's Best Beginner Hikes" },
   { date: "April 15, 2027", topic: "Na Pali Coast: Boat Tour vs Kalalau Trail vs Helicopter" },
+  { date: "May 1, 2027", topic: "Best Beginner Snorkeling on Maui" },
 ];
