@@ -2204,13 +2204,107 @@ One local tradition to know: firecrackers. Neighbors set them off across the isl
 • Waikiki Improvement Association — New Year's Eve Fireworks (waikikiimprovement.com)`,
     ],
   },
+  {
+    id: "december-hawaii-guide",
+    title: "December in Hawaii: Weather, Events & Best Things to Do",
+    excerpt: "Is December a good time to visit Hawaii? Yes — whales arrive, surf peaks, and the holidays shine. Your complete December in Hawaii 2026 guide.",
+    category: "Beaches",
+    author: "Beaches & Hikes",
+    date: "November 9, 2026",
+    readTime: "10 min read",
+    image: "/images/blog/december-hawaii-guide.jpg",
+    tags: ["December in Hawaii", "Hawaii Travel", "Oahu", "Maui", "Kauai", "Big Island", "Christmas in Hawaii", "Whale Watching", "Winter Surf"],
+    content: [
+      `December in Hawaii is when the islands pull off their best magic trick: the rest of the country is scraping ice off windshields while you're watching a 40-ton humpback whale breach against a backdrop of palm trees strung with Christmas lights. It's the one month when everything overlaps — whale season kicks off, North Shore surf hits its winter peak, holiday events light up every island, and yes, the busiest two weeks of the year arrive right along with them.
+
+This complete December in Hawaii guide covers everything you need to plan your trip: island-by-island weather, when the whales and waves show up, the can't-miss holiday events, what it all costs, and the honest truth about crowds — plus the exact dates to book (and avoid) for 2026.`,
+      `**Is December a Good Time to Visit Hawaii? (The Short Answer)**
+
+Yes — December is one of the best months to visit Hawaii, and one of the most popular. You get warm beach weather with highs near 80°F while the mainland freezes, the first humpback whales of the season, the biggest waves of the year on the North Shore, and a full calendar of holiday events you can't experience anywhere else (Santa arrives by outrigger canoe here).
+
+The two honest caveats are rain and cost. December sits in Hawaii's wet season — though showers are usually brief and highly localized, especially on the leeward (south and west) coasts where most resorts sit. And from about December 19 through January 3, Hawaii hosts the most expensive and crowded stretch of its entire year.
+
+Bottom line: visit December 1–18 for the sweet spot — same weather, whales, surf, and events at shoulder-season prices with room to breathe. If your heart is set on Christmas in Hawaii, it's genuinely wonderful — just book months ahead and budget accordingly.`,
+      `**December Weather in Hawaii: Island by Island**
+
+December marks the start of Hawaii's wet season, but don't let that scare you — rainfall is wildly uneven across each island, and most visitor areas stay mostly dry.
+
+- **Oahu (Waikiki/Honolulu):** Daytime highs around 78–82°F, nights near 68–71°F, ocean temperature about 77°F. Leeward Honolulu averages only around 2 inches of rain for the whole month, mostly in passing showers. The windward side (Kailua, Kaneohe) sees more. Sunset comes early — around 5:50 PM — with sunrise near 7 AM and about 10.8 hours of daylight, so plan beach time for morning and midday and save evenings for lights and events.
+- **Maui (Ka'anapali/Wailea):** Very similar to Oahu. Ka'anapali and Wailea on the leeward coast are among the driest places in the state; Hana and the north shore get real rain. Haleakala summit is genuinely cold at sunrise — it can sit near freezing with wind chill, so pack layers.
+- **Kauai:** The wettest of the four main islands. The north shore (Hanalei, Princeville) is lush and showery in December, while Poipu on the sunny south shore is the reliable bet. If you can choose your Kauai home base in winter, choose Poipu.
+- **Big Island (Kona/Hilo):** Kona is famously dry and warm — highs can still reach the low-to-mid 80s — and December snorkeling at Kealakekua Bay is excellent. Hilo on the windward side is one of the rainiest cities in America and leans into it. Mauna Kea's summit often wears snow in December — yes, you can see snow and surf on the same day, though most people wisely just take a photo.
+
+One December weather fact people love: hurricane season (June–November) officially ends November 30, so December is the first month in half a year with essentially zero tropical cyclone risk. UV stays high all winter — reef-safe mineral sunscreen is required by state law anyway, so bring plenty.
+
+**Jellyfish note for December 2026:** box jellyfish arrive on Oahu's south shores 8–10 days after each full moon. With full moons on November 24 and December 23–24, the watch windows are roughly December 2–6 and December 31–January 4 — check lifeguard warning signs at Waikiki and Ala Moana before swimming.`,
+      `**The Whales Are Back: December Kicks Off Whale Season**
+
+December 1 is the unofficial start of humpback whale season in Hawaii, and the early weeks deliver a genuine thrill: spotting the season's first arrivals. Thousands of kohola (humpbacks) migrate more than 3,000 miles from Alaska each year, with numbers building through December toward the January–March peak. By mid-December, most boat tours are seeing whales reliably enough that many operators guarantee sightings.
+
+The densest winter concentration on Earth is the Auau Channel between Maui, Lanai, and Molokai — a shallow, protected nursery where mothers teach newborn calves. If whales are your priority, Maui in December is the single best bet in the state, and Ka'anapali's beachfront doubles as a whale-watching deck.
+
+Free shore-based spotting is excellent everywhere: the paved Makapuu Lighthouse trail on Oahu (official whale counts run from its lookouts all winter), anywhere along Ka'anapali Beach or the Wailea coastal path on Maui, the Kohala coast lookouts on the Big Island, and the Kilauea Point area on Kauai.
+
+Two-hour whale-watch catamaran trips run roughly $50–$100+ per person. In early December you can often book a day or two out; for Christmas week, book ahead. And remember: federal law requires boats, swimmers, and drones to stay at least 100 yards from humpbacks (farther for mothers with calves) — the whales, thankfully, don't follow the rules and regularly approach boats on their own.`,
+      `**Winter Surf Peaks: North Shore Season Is On**
+
+December is when Hawaii's North Shore becomes the center of the surf world. The winter swell machine in the North Pacific sends waves of 10–25+ feet onto the north shores of Oahu, Maui, and Kauai, and the best surfers alive fly in for the season.
+
+The marquee event: the Pipe Masters, December 8–20 at Ehukai Beach Park on Oahu — the most prestigious contest in surfing, held in hollow barrels breaking over shallow reef just yards from the sand. Watching is free. Check the World Surf League site each morning for the daily ON/OFF call (the contest runs only on the best days in its window), arrive before 8 AM for parking, and bring binoculars.
+
+Also opening December 6: the holding period for the Eddie Aikau Big Wave Invitational at Waimea Bay. The Eddie runs on a single day — only when Waimea sustains 40-foot faces — which has happened just 11 times since 1984. If you hear the words "The Eddie is ON," expect island-wide excitement and total North Shore gridlock. Worth it.
+
+Important safety note: those same waves make north-shore beaches genuinely dangerous for swimming in December — heed posted warning signs and lifeguards, and watch from a respectful distance. For swimming and snorkeling, stick to the leeward south and west shores, which stay calm all winter: Waikiki, Ka'anapali, Wailea, Poipu, and Kona.`,
+      `**Holidays in Hawaii: What's On in December 2026**
+
+Hawaii does the holidays in a style all its own — Shaka Santa, palm trees wrapped in lights, Mele Kalikimaka playing everywhere. The statewide highlights:
+
+- **Honolulu City Lights (Oahu):** opens Saturday, December 5 with a free tree-lighting ceremony at Honolulu Hale and the Electric Light Parade down King Street; displays run daily 8 AM–10 PM through December.
+- **Pearl Harbor 85th Commemoration (Oahu):** Monday, December 7 — the 7:30 AM remembrance ceremony is free and open to the public (gates open 6:15 AM). A moving morning, not a typical attraction visit.
+- **JAL Honolulu Marathon (Oahu):** Sunday, December 13 — 5 AM start with fireworks, famously no time limit; spectating from Waikiki is free and genuinely fun.
+- **Christmas Day (statewide):** Friday, December 25. Beach picnics are the local tradition; resort holiday dinners and luaus sell out weeks ahead — book now if you haven't.
+- **New Year's Eve (Oahu):** Thursday, December 31 — midnight fireworks from a barge off Waikiki Beach (free, with a synchronized radio soundtrack), plus cruises and rooftop parties.
+
+Maui, Kauai, and the Big Island each run their own tree lightings, craft fairs, and small-town parades through the month — wonderful, low-key, and usually free. For the full Oahu events calendar with parking and timing details, see our Oahu holiday events guide.`,
+      `**December Costs & Crowds: A Tale of Two Halves**
+
+December splits cleanly in two, and the difference is dramatic.
+
+**December 1–18 — the quiet half.** Schools are in session, Thanksgiving crowds have gone home, and hotel rates hover near shoulder-season levels. Statewide hotel averages have recently run in the high $300s per night per Hawaii DBEDT data — roughly $270–310 on Oahu and $540–580 on Maui — and early December tracks at or below those averages. Rental cars, restaurant reservations, and boat tours are all bookable on reasonable notice. Meanwhile the events are already running, the whales are arriving, and the surf is pumping. This is the insider's window.
+
+**December 19–January 3 — the peak.** The Christmas–New Year's stretch is the single busiest and most expensive period in Hawaii tourism. Hotels sell out or jump 30–60% above normal; the best luaus, boat tours, and rental cars book out months in advance; resort restaurants require reservations. It's still a fantastic experience — the festive energy is real, and Christmas morning on the beach is a once-in-a-lifetime memory — but it demands planning and budget.
+
+Honest advice for 2026: if you haven't booked Christmas week yet, expect limited availability and premium prices; flexible travelers should aim for the December 1–18 window instead. Either way, book flights, cars, and signature activities first, and lock refundable hotel rates where you can. One bright spot: airfare to Hawaii often dips for early-December departures before spiking for the holidays.`,
+      `**December in Hawaii FAQ**
+
+**Is December a good month to go to Hawaii?** Yes. Warm beach weather (highs near 80°F, ocean around 77°F), the start of whale season, peak North Shore surf, and a full holiday event calendar make December one of the best — and most popular — months of the year. Visit December 1–18 for the best combination of weather, events, and prices.
+
+**Does it rain a lot in Hawaii in December?** December is in the wet season, but rain is highly localized. Leeward resort areas — Waikiki, Ka'anapali, Wailea, Poipu, Kona — average only around 2 inches for the month, mostly brief passing showers. Windward coasts (Hilo, Hanalei, Hana) get much more. Base yourself on a leeward coast and rain rarely affects a trip.
+
+**Can you swim and snorkel in Hawaii in December?** Yes — on the south and west shores. Waikiki, Ka'anapali, Wailea, Poipu, and Kona stay calm and clear all winter, with ocean temperatures near 77°F. North shores get dangerous 10–25+ foot surf in December and are for watching, not swimming.
+
+**Can you see whales in Hawaii in December?** Yes — humpback season starts in December, with sightings building all month toward the January–March peak. Maui's Auau Channel is the world's densest winter whale habitat, and shore spotting is free at Makapuu (Oahu) and Ka'anapali (Maui). Most tours guarantee sightings from mid-December on.
+
+**Is Hawaii crowded and expensive at Christmas?** Yes — December 19 through January 3 is the busiest and priciest stretch of the year. Hotels, luaus, rental cars, and popular tours sell out months ahead and can cost 30–60% more. Early December is far cheaper and uncrowded, with nearly all the same experiences.
+
+**Which Hawaiian island is best in December?** For whales, Maui. For holiday events and free fireworks, Oahu. For the driest, warmest weather, the Big Island's Kona coast. For lush scenery away from the crowds, Kauai's sunny Poipu side. First-timers in December: split time between Oahu and Maui if you can.`,
+      `**Sources:**
+• National Weather Service Honolulu — Hawaii Climate, Rainfall & Surf Patterns (weather.gov)
+• GoHawaii (Hawaii Tourism Authority) — Weather & Island Guides (gohawaii.com)
+• Hawaii DBEDT — Visitor Arrivals, Spending & Hotel Performance Reports (dbedt.hawaii.gov)
+• NOAA Hawaiian Islands Humpback Whale National Marine Sanctuary — Whale Season & Viewing Rules (hawaiihumpbackwhale.noaa.gov)
+• World Surf League — Pipe Masters Schedule & Daily Calls (worldsurfleague.com)
+• Friends of Honolulu City Lights — 2026 Event Schedule (honolulucitylights.org)
+• Pearl Harbor 85th Commemoration — Official Ceremony Details (pearlharborevents.com)`,
+    ],
+  },
 ];
 
 export const featuredBlogIds = [
+  "december-hawaii-guide",
   "oahu-holiday-events",
   "maui-vs-oahu",
   "november-hawaii-guide",
-  "north-shore-surf-season-guide",
 ];
 
 // Future blog schedule (2 per month, 1st and 15th)
@@ -2226,4 +2320,5 @@ export const futureBlogSchedule = [
   { date: "April 1, 2027", topic: "Kauai's Best Beginner Hikes" },
   { date: "April 15, 2027", topic: "Na Pali Coast: Boat Tour vs Kalalau Trail vs Helicopter" },
   { date: "May 1, 2027", topic: "Best Beginner Snorkeling on Maui" },
+  { date: "May 15, 2027", topic: "Best Sunset Spots in Hawaii: Beaches & Lookouts" },
 ];
