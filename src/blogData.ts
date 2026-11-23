@@ -2298,13 +2298,123 @@ Honest advice for 2026: if you haven't booked Christmas week yet, expect limited
 • Pearl Harbor 85th Commemoration — Official Ceremony Details (pearlharborevents.com)`,
     ],
   },
+  {
+    id: "new-years-sunrise-hawaii",
+    title: "New Year's Sunrise in Hawaii: 8 Best Spots for 2027",
+    excerpt: "Where to watch the first sunrise of 2027 in Hawaii: the best New Year's Day sunrise hikes, lookouts & beaches on Oahu, Maui, Kauai & the Big Island.",
+    category: "Hiking",
+    author: "Beaches & Hikes",
+    date: "November 23, 2026",
+    readTime: "10 min read",
+    image: "/images/blog/new-years-sunrise-hawaii.jpg",
+    tags: ["New Year's Sunrise", "First Sunrise", "Sunrise Hikes", "Oahu", "Maui", "Kauai", "Big Island", "Hawaii Events", "Winter in Hawaii"],
+    content: [
+      `There's no better way to start a year in Hawaii than face-to-face with the first sunrise — standing on a dark beach or a wind-cooled ridge as the Pacific lights up gold. The New Year's sunrise in Hawaii is a genuine local tradition: thanks to the islands' deep Japanese roots, hatsuhinode (the first-sunrise viewing) draws local families to east-facing shores every January 1st, and visitors are welcome to join. The best part? In January the sun rises late — around 7:09 AM in Honolulu — so this is one sunrise you don't have to suffer for.
+
+This guide covers the best New Year's Day sunrise spots across Oahu, Maui, Kauai, and the Big Island for 2027: exact sunrise times, the parking and gate quirks that can make or break your morning, the one famous sunrise hike that's closed on New Year's Day, and how to snag a last-minute Haleakala summit reservation.`,
+      `**Where to Watch the First Sunrise of 2027 in Hawaii (The Short Answer)**
+
+Sunrise on January 1, 2027 comes at 7:09 AM in Honolulu — and between roughly 7:00 and 7:20 AM across the rest of the state, earliest on the Big Island's Hilo side and latest on Kauai (all times HST, per the Bishop Museum). Aim to be settled at your spot by 6:35–6:45 AM, because the best colors start 30–40 minutes before the sun itself.
+
+The best first-sunrise spot on each island:
+
+- **Oahu:** Makapuu Point Lighthouse Trail — the island's southeastern tip, where Oahu sees the sun first (bonus: humpback whales offshore)
+- **Maui:** Haleakala summit at 10,023 feet — sunrise above a sea of clouds (reservation required)
+- **Kauai:** Lydgate Beach Park — easy, east-facing, family-friendly
+- **Big Island:** Hilo Bay (Liliuokalani Gardens & Coconut Island) — the first sunrise in the Hawaiian chain
+
+And the single most important planning fact: the famous Diamond Head sunrise hike is CLOSED on New Year's Day. Details on that and every other quirk below.`,
+      `**1. Makapuu Point Lighthouse Trail, Oahu — First Light on Oahu**
+
+Makapuu is the southeastern tip of Oahu — the first place on the island to greet the New Year sun — and the paved two-mile round-trip trail to the lighthouse lookout is the state's most popular sunrise walk. From the top you get the historic 1909 red-roofed lighthouse, dramatic sea cliffs, and — in January — a very real chance of humpback whales breaching offshore while the sky turns pink.
+
+- **Sunrise:** 7:09 AM (same as Honolulu)
+- **The catch:** official winter hours for the Kaiwi State Scenic Shoreline are 7:00 AM–6:45 PM, and the parking lot gate opens at 7:00 AM — too late for first light. First-sunrise hikers park along the Kalanianaole Highway shoulder and walk in (the trail itself opens around sunrise); going before posted hours is at your own risk. Read every sign, and never leave valuables in the car.
+- **The trail:** 2 miles round trip, about 500 feet of elevation gain, fully paved — allow 30–40 minutes up in the dark with a headlamp. No restrooms or water.
+- **Cost:** Free.
+
+Arrive by 6:20 AM, walk up by headlamp, and you'll have the lookout nearly to yourself until the sun breaks. Bring binoculars for the whales.`,
+      `**2. Lanikai Pillbox (Kaiwa Ridge Trail), Oahu — Sunrise Over the Mokes**
+
+If you've ever seen a photo of the sun rising between two offshore islands with a WWII bunker in the foreground, you've seen the Lanikai Pillbox hike. The short, steep climb up Kaiwa Ridge delivers the most photogenic New Year's sunrise on Oahu: first light spilling over the Mokulua Islands ("the Mokes") and the turquoise sweep of Kailua Bay.
+
+- **Sunrise:** 7:09 AM; plan 20–30 minutes for the climb to the first pillbox, in the dark, with a headlamp
+- **Trailhead:** end of Kaelepulu Drive in Lanikai — free, no facilities
+- **Parking (read this part):** Lanikai's streets are a parking minefield. Parking on Mokulua Drive is permanently banned, side streets carry their own restrictions, enforcement is real with fines around $200, and holidays bring special enforcement. The reliable move: park free at Kailua Beach Park and walk the 0.6 miles (about 15 minutes) to the trailhead.
+- **Difficulty:** moderate — the first 10 minutes are steep and slick after rain; wear real shoes, not slippers.
+
+The ridge is exposed, with drop-offs and no railings — pick your viewing spot in the dark carefully and stay put for the show. Afterward, walk down to Lanikai Beach for a New Year's morning swim.`,
+      `**3. Koko Crater Railway Trail, Oahu — Earn Your Sunrise**
+
+For a first sunrise with bragging rights: 1,048 railroad-tie steps straight up the face of an extinct cinder cone to a 360-degree summit panorama — Hanauma Bay, Diamond Head, and the sun erupting out of the Pacific.
+
+- **Sunrise:** 7:09 AM; most hikers need 30–45 minutes up (more with breaks), so start climbing by 6:00–6:15 AM with a headlamp
+- **Access:** the trail itself is open around the clock, and the free Koko Head District Park lot opens at 4 AM. Restrooms and water are at the park; nothing on the trail
+- **Difficulty:** strenuous — nearly 1,000 feet of gain in 0.7 miles. Not for young kids or anyone with knee issues, and the descent on tired legs is where people slip
+- **Cost:** Free.
+
+New Year's morning draws a crowd of locals keeping the same tradition — expect a slow, friendly conga line of headlamps and a busy summit. Arrive early and be patient.`,
+      `**4. Haleakala Summit, Maui — The Bucket-List First Sunrise**
+
+Sunrise from the 10,023-foot summit of Haleakala is the most famous sunrise in Hawaii: you stand above a sea of clouds as the sun floods the volcanic crater in gold and purple. On New Year's Day it genuinely feels like watching the year being born. It's also the only spot on this list that requires real paperwork.
+
+**Reservation reality for January 1, 2027:** every vehicle entering the summit district between 3:00 and 7:00 AM needs a $1 sunrise reservation from recreation.gov — in addition to the $30-per-vehicle park entrance fee (good for 3 days). Reservations drop 60 days out at 7:00 AM HST, which for New Year's Day was November 2. Missed it? You have two shots left: the second release goes live two days before — that's 7:00 AM HST on Tuesday, December 30 — and cancellations trickle back into the system, so check daily. One reservation per vehicle, and the booker's ID gets checked at the gate.
+
+- **Timing:** sunrise comes just after 7:00 AM; the park recommends arriving at the entrance station about 90 minutes early — it's 22 winding miles from the gate to the summit
+- **Dress for real winter:** pre-dawn summit temperatures sit around 40°F or below, with wind. A jacket, beanie, and blanket are not optional
+- **Cost:** $1 reservation + $30/vehicle entrance, credit card only
+
+**No reservation? No problem:** Maui's north shore serves up a beautiful first sunrise with zero paperwork. Baldwin Beach Park in Paia faces east, has free parking, and puts you minutes from a post-sunrise breakfast in Paia town.`,
+      `**5. Lydgate Beach Park, Kauai — The Sleep-In-Friendly Sunrise**
+
+Kauai is the westernmost main island, so the New Year sun arrives latest here — around 7:15–7:20 AM — which makes Lydgate Beach Park the choice for anyone who wants first light without a brutal alarm. This east-facing Wailua beach has free parking, restrooms, and two protected rock-wall lagoons for a calm first swim of the year right after the show. Watch the sky light up over the Pacific, then stroll the 2.5-mile coastal path. It's free, flat, and requires nothing but waking up.
+
+**6. Hilo Bay, Big Island — The First Sunrise in Hawaii**
+
+The Big Island's east coast is the first land in the Hawaiian chain to see the sun — so if you want to greet 2027 before anyone else in the state, Hilo is your spot, with sunrise around 7:00 AM, the earliest in Hawaii. The classic setting: the Japanese-style bridges and banyan trees of Liliuokalani Gardens, or walk the footbridge to Moku Ola (Coconut Island) and watch the sun come up over Hilo Bay with Mauna Kea — often snow-capped this time of year — glowing behind you. Free, with parking along the gardens and Banyan Drive, and Hilo's cafes open for breakfast after. Rain is always possible in Hilo — but a passing shower just makes a New Year's rainbow more likely.`,
+      `**Planning Notes: Diamond Head Is Closed January 1 (+ What to Bring)**
+
+The most-asked question every December: no, you cannot hike Diamond Head for the New Year's sunrise. Diamond Head State Monument is closed on New Year's Day (and Christmas Day). On every other day it's a fine winter sunrise hike — gates open at 6 AM and winter sunrise isn't until after 7 — so book a 6:00 AM slot on December 31 or January 2 instead. Non-residents pay $5 entry plus $10 parking via gostateparks.hawaii.gov, bookable 30 days out, and early slots sell out fast.
+
+One more don't: the Haiku Stairs ("Stairway to Heaven") may look tempting on social media, but it's closed, illegal, and trespassing brings fines up to $1,000 — skip it entirely.
+
+**Zero-effort Oahu option:** if hiking in the dark isn't your thing, Waimanalo and Kailua Beach Parks face straight east — roll up by 6:40 AM with coffee and watch from the sand.
+
+**Everywhere, bring:**
+
+- A headlamp or flashlight (phone lights drain fast and aren't hands-free)
+- Layers — pre-dawn temperatures run in the low-to-mid 60s at sea level and near 40°F at Haleakala
+- Water, real shoes for any trail, and a small towel
+- Your patience: New Year's morning is the busiest sunrise of the year at every spot on this list. Arrive earlier than you think you need to.`,
+      `**New Year's Sunrise in Hawaii FAQ**
+
+**What time is the first sunrise of 2027 in Hawaii?** On January 1, 2027, the sun rises at 7:09 AM in Honolulu (per the Bishop Museum). Statewide it falls between about 7:00 and 7:20 AM HST — earliest on the Big Island's Hilo side, latest on Kauai. The colors start 30–40 minutes before sunrise, so be in place by 6:35 AM.
+
+**Is Diamond Head open on New Year's Day?** No. Diamond Head State Monument is closed on New Year's Day and Christmas Day. Book a 6:00 AM entry slot for December 31 or January 2 instead — non-residents pay $5 entry plus $10 parking and must reserve at gostateparks.hawaii.gov.
+
+**Do you need a reservation for the Haleakala sunrise on New Year's Day?** Yes — every vehicle entering the summit between 3:00 and 7:00 AM needs a $1 recreation.gov sunrise reservation, plus the $30 park entrance fee. The 60-day release has passed for January 1, 2027; your best remaining shot is the two-days-prior release at 7:00 AM HST on December 30, plus checking for cancellations.
+
+**What is hatsuhinode?** The Japanese tradition of greeting the first sunrise of the new year. It's widely observed in Hawaii thanks to the islands' Japanese heritage — families gather at east-facing beaches and lookouts before dawn on January 1st. Visitors are welcome: just keep it quiet, park legally, and pack out everything you bring.
+
+**Can you hike to Makapuu Lighthouse before the gate opens?** The parking lot opens at 7 AM in winter — too late for the 7:09 AM sunrise. First-sunrise hikers park on the Kalanianaole Highway shoulder and walk in; the trail opens around sunrise. Going before posted hours is at your own risk — follow all signs and leave nothing visible in the car.
+
+**Is it cold at sunrise in Hawaii in January?** At sea level, pre-dawn temperatures run in the low-to-mid 60s°F — pleasant with a light layer. At Haleakala's 10,023-foot summit, expect around 40°F or colder with wind — bring a real jacket. Windward coasts can see passing showers; check the forecast the night before.`,
+      `**Sources:**
+• Bishop Museum — Hawaii Sunrise & Sunset Times (bishopmuseum.org)
+• Hawaii DLNR Division of State Parks — Diamond Head State Monument Hours & Reservations (dlnr.hawaii.gov)
+• Hawaii DLNR Division of State Parks — Kaiwi State Scenic Shoreline & Makapuu Trail (dlnr.hawaii.gov)
+• National Park Service — Haleakala Fees & Sunrise Reservations (nps.gov)
+• Recreation.gov — Haleakala Summit Sunrise Reservations (recreation.gov)
+• GoHawaii (Hawaii Tourism Authority) — Island Guides & Responsible Travel (gohawaii.com)`,
+    ],
+  },
 ];
 
 export const featuredBlogIds = [
+  "new-years-sunrise-hawaii",
   "december-hawaii-guide",
   "oahu-holiday-events",
   "maui-vs-oahu",
-  "november-hawaii-guide",
 ];
 
 // Future blog schedule (2 per month, 1st and 15th)
@@ -2312,7 +2422,6 @@ export const futureBlogSchedule = [
   { date: "October 15, 2026", topic: "Best Coffee Shops Near Trails" },
   { date: "November 1, 2026", topic: "Oahu's Best Kept Secret Beaches" },
   { date: "November 15, 2026", topic: "Trail Running on Oahu" },
-  { date: "December 15, 2026", topic: "New Year's Sunrise Spots" },
   { date: "January 1, 2027", topic: "Manta Ray Night Snorkel: Big Island Guide" },
   { date: "February 1, 2027", topic: "Best Winter Hikes on Oahu" },
   { date: "March 1, 2027", topic: "Spring Break in Hawaii: Best Beaches & Hikes" },
@@ -2321,4 +2430,5 @@ export const futureBlogSchedule = [
   { date: "April 15, 2027", topic: "Na Pali Coast: Boat Tour vs Kalalau Trail vs Helicopter" },
   { date: "May 1, 2027", topic: "Best Beginner Snorkeling on Maui" },
   { date: "May 15, 2027", topic: "Best Sunset Spots in Hawaii: Beaches & Lookouts" },
+  { date: "June 1, 2027", topic: "Best Shady Summer Hikes on Oahu" },
 ];
